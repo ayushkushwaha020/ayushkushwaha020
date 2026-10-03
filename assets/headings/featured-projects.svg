@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="48" viewBox="0 0 420 48">
+<defs>
+  <filter id="glow" x="-30%" y="-80%" width="160%" height="260%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#F8BBD0"/>
+    <stop offset="0.48" stop-color="#FF69B4"/>
+    <stop offset="1" stop-color="#FF1493"/>
+  </linearGradient>
+</defs>
+<text x="8" y="35" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="url(#g)" stroke="#FF1493" stroke-width="0.7" paint-order="stroke" filter="url(#glow)">✦ Featured Projects</text>
+</svg>
