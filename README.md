@@ -6,7 +6,7 @@
 
 <div align="center"><img src="./assets/headings/main-title.svg" width="520" alt="Hey there, I'm Ayush Kushwaha"></div>
 
-<h3><font color="#FF69B4">B.Tech AI & ML Student • Developer • Problem Solver</font></h3>
+<div align="center"><img src="./assets/headings/subtitle.svg" width="390" alt="B.Tech AI & ML Student • Developer • Problem Solver"></div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=EF93C4&center=true&vCenter=true&width=560&height=32&lines=Building+%26+Shipping+Real+Projects+%F0%9F%9A%80;AI+%7C+ML+%7C+Full-Stack+Development;Turning+Ideas+into+Working+Products+%E2%9C%A8" alt="Typing introduction">
 
@@ -70,23 +70,23 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 <table width="100%">
 <tr>
 <td align="center" width="20%">
-<b><font color="#F8BBD0">Languages</font></b><br><br>
+<b>Languages</b><br><br>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&perline=3&theme=dark" alt="Languages">
 </td>
 <td align="center" width="20%">
-<b><font color="#F8BBD0">AI / ML</font></b><br><br>
+<b>AI / ML</b><br><br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=2&theme=dark" alt="AI ML">
 </td>
 <td align="center" width="20%">
-<b><font color="#F8BBD0">Web & Backend</font></b><br><br>
+<b>Web & Backend</b><br><br>
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,fastapi&perline=3&theme=dark" alt="Web and backend">
 </td>
 <td align="center" width="20%">
-<b><font color="#F8BBD0">Databases & Cloud</font></b><br><br>
+<b>Databases & Cloud</b><br><br>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,render&perline=3&theme=dark" alt="Databases and cloud">
 </td>
 <td align="center" width="20%">
-<b><font color="#F8BBD0">Tools</font></b><br><br>
+<b>Tools</b><br><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&perline=3&theme=dark" alt="Tools">
 </td>
 </tr>
@@ -104,14 +104,14 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<h3><font color="#FF69B4">✦ GitHub Streak</font></h3>
+<img src="./assets/headings/github-streak.svg" width="190" alt="GitHub Streak">
 
 <img src="https://streak-stats.demolab.com?user=ayushkushwaha020&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0" width="100%" alt="GitHub streak">
 
 </td>
 <td width="50%" align="center" valign="middle">
 
-<h3><font color="#FF69B4">✦ Top Languages</font></h3>
+<img src="./assets/headings/top-languages.svg" width="190" alt="Top Languages">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkushwaha020&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0&langs_count=8" width="100%" alt="Top languages">
 
@@ -119,7 +119,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 </tr>
 </table>
 
-<h3><font color="#FF69B4">✦ Contribution Activity</font></h3>
+<img src="./assets/headings/contribution-activity.svg" width="225" alt="Contribution Activity">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushkushwaha020&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=EF93C4&chart_color=FF69B4&border_color=EF93C4&bg_color=00000000" width="100%" alt="GitHub contribution activity graph">
 
@@ -136,7 +136,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="20%" align="center" valign="top">
 
-<h3><font color="#FF69B4">◆ DX TECHIES</font></h3>
+<img src="./assets/headings/dx-techies.svg" width="165" alt="DX TECHIES">
 
 <b>AI Crowd Monitoring</b><br>
 SIH Ideas • <b>SIH26187</b>
@@ -157,7 +157,7 @@ SIH Ideas • <b>SIH26187</b>
 
 <td width="20%" align="center" valign="top">
 
-<h3><font color="#FF69B4">◆ CODE.KAISEN</font></h3>
+<img src="./assets/headings/code-kaisen.svg" width="180" alt="CODE.KAISEN">
 
 <b>Anomaly Detection</b><br>
 SIH Ideas • <b>SIH26170</b>
@@ -178,7 +178,7 @@ SIH Ideas • <b>SIH26170</b>
 
 <td width="20%" align="center" valign="top">
 
-<h3><font color="#FF69B4">◆ ALGOMINDS</font></h3>
+<img src="./assets/headings/algominds.svg" width="165" alt="ALGOMINDS">
 
 <b>Patient Case Taking</b><br>
 SIH 2026 • <b>SIH26047</b>
@@ -199,7 +199,7 @@ SIH 2026 • <b>SIH26047</b>
 
 <td width="20%" align="center" valign="top">
 
-<h3><font color="#FF69B4">◆ AI ATTENDANCE</font></h3>
+<img src="./assets/headings/ai-attendance.svg" width="195" alt="AI ATTENDANCE">
 
 <b>Student Attendance</b><br>
 Face Recognition • Camera
@@ -219,7 +219,7 @@ Face Recognition • Camera
 
 <td width="20%" align="center" valign="top">
 
-<h3><font color="#FF69B4">◆ PR-COPILOT</font></h3>
+<img src="./assets/headings/pr-copilot.svg" width="175" alt="PR-COPILOT">
 
 <b>AI PR Review Agent</b><br>
 GitHub • RAG • Automation
