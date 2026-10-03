@@ -4,7 +4,7 @@
 
 <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/Neon%20Sakura%20GitHub%20Profile%20Asset%20Sheet.png&cx=602&cy=0&cw=1438&ch=320&output=jpg&q=90&maxage=1y" width="100%" alt="Hey there — Welcome to my GitHub profile">
 
-<h1 align="center"><font color="#FF69B4">Hey there, I'm Ayush Kushwaha ✦</font></h1>
+<div align="center"><img src="./assets/headings/main-title.svg" width="520" alt="Hey there, I'm Ayush Kushwaha"></div>
 
 <h3><font color="#FF69B4">B.Tech AI & ML Student • Developer • Problem Solver</font></h3>
 
@@ -22,13 +22,13 @@
 
 <hr>
 
-<h2><font color="#FF69B4">♥ About Me</font></h2>
+<img src="./assets/headings/about-me.svg" width="220" alt="About Me">
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td width="60%" valign="top">
 
-<h3><font color="#FF69B4">Hi, I'm Ayush Kushwaha! <span style="color:#FF69B4;">✦</span></font></h3>
+<img src="./assets/headings/about-hi.svg" width="330" alt="Hi, I'm Ayush Kushwaha">
 
 I'm a **B.Tech AI & ML student and developer** passionate about building practical and meaningful technology.
 
@@ -63,7 +63,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <hr>
 
-<h2><font color="#FF69B4">✦ Tech Stack</font></h2>
+<img src="./assets/headings/tech-stack.svg" width="225" alt="Tech Stack">
 
 <div align="center">
 
@@ -96,7 +96,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <hr>
 
-<h2><font color="#FF69B4">▥ GitHub Analytics</font></h2>
+<img src="./assets/headings/github-analytics.svg" width="295" alt="GitHub Analytics">
 
 <div align="center">
 
@@ -127,7 +127,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <hr>
 
-<h2><font color="#FF69B4">✦ Featured Projects</font></h2>
+<img src="./assets/headings/featured-projects.svg" width="315" alt="Featured Projects">
 
 <div align="center">
 
@@ -245,7 +245,7 @@ GitHub • RAG • Automation
 
 <hr>
 
-<h2><font color="#FF69B4">➤ Connect With Me</font></h2>
+<img src="./assets/headings/connect.svg" width="285" alt="Connect With Me">
 
 <div align="center">
 
@@ -265,7 +265,7 @@ GitHub • RAG • Automation
 
 <hr>
 
-<h2><font color="#FF69B4">❝ Random Developer Quote</font></h2>
+<img src="./assets/headings/quote.svg" width="330" alt="Random Developer Quote">
 
 <div align="center">
 
