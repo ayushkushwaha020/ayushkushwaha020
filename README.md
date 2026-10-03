@@ -26,6 +26,8 @@
 <tr>
 <td width="64%" valign="top">
 
+## 💗 About Me
+
 ### Hi, I'm Ayush Kushwaha! 👋
 
 I'm a **B.Tech AI & ML student and developer** passionate about building practical and meaningful technology.
