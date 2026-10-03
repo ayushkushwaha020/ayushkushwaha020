@@ -4,9 +4,9 @@
 
 <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/Neon%20Sakura%20GitHub%20Profile%20Asset%20Sheet.png&cx=602&cy=0&cw=1438&ch=320&output=jpg&q=90&maxage=1y" width="100%" alt="Hey there — Welcome to my GitHub profile">
 
-<h1 align="center" style="color:#FF69B4;">Hey there, I'm <span style="color:#FF69B4;">Ayush Kushwaha</span> ✦</h1>
+<h1 align="center"><font color="#FF69B4">Hey there, I'm Ayush Kushwaha ✦</font></h1>
 
-<h3 style="color:#FF69B4;">B.Tech AI & ML Student • Developer • Problem Solver</h3>
+<h3><font color="#FF69B4">B.Tech AI & ML Student • Developer • Problem Solver</font></h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=EF93C4&center=true&vCenter=true&width=560&height=32&lines=Building+%26+Shipping+Real+Projects+%F0%9F%9A%80;AI+%7C+ML+%7C+Full-Stack+Development;Turning+Ideas+into+Working+Products+%E2%9C%A8" alt="Typing introduction">
 
@@ -22,13 +22,13 @@
 
 <hr>
 
-<h2 style="color:#FF69B4;">♥ About Me</h2>
+<h2><font color="#FF69B4">♥ About Me</font></h2>
 
 <table width="100%">
 <tr>
 <td width="64%" valign="top">
 
-<h3 style="color:#FF69B4;">Hi, I'm Ayush Kushwaha! <span style="color:#FF69B4;">✦</span></h3>
+<h3><font color="#FF69B4">Hi, I'm Ayush Kushwaha! <span style="color:#FF69B4;">✦</span></font></h3>
 
 I'm a **B.Tech AI & ML student and developer** passionate about building practical and meaningful technology.
 
@@ -63,7 +63,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <hr>
 
-<h2 style="color:#FF69B4;">✦ Tech Stack</h2>
+<h2><font color="#FF69B4">✦ Tech Stack</font></h2>
 
 <div align="center">
 
@@ -96,7 +96,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <hr>
 
-<h2 style="color:#FF69B4;">▥ GitHub Analytics</h2>
+<h2><font color="#FF69B4">▥ GitHub Analytics</font></h2>
 
 <div align="center">
 
@@ -104,14 +104,14 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<h3 style="color:#FF69B4;">✦ GitHub Streak</h3>
+<h3><font color="#FF69B4">✦ GitHub Streak</font></h3>
 
 <img src="https://streak-stats.demolab.com?user=ayushkushwaha020&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0" width="100%" alt="GitHub streak">
 
 </td>
 <td width="50%" align="center" valign="middle">
 
-<h3 style="color:#FF69B4;">✦ Top Languages</h3>
+<h3><font color="#FF69B4">✦ Top Languages</font></h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkushwaha020&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0&langs_count=8" width="100%" alt="Top languages">
 
@@ -119,7 +119,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 </tr>
 </table>
 
-<h3 style="color:#FF69B4;">✦ Contribution Activity</h3>
+<h3><font color="#FF69B4">✦ Contribution Activity</font></h3>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushkushwaha020&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=EF93C4&chart_color=FF69B4&border_color=EF93C4&bg_color=00000000" width="100%" alt="GitHub contribution activity graph">
 
@@ -127,7 +127,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <hr>
 
-<h2 style="color:#FF69B4;">✦ Featured Projects</h2>
+<h2><font color="#FF69B4">✦ Featured Projects</font></h2>
 
 <div align="center">
 
@@ -136,7 +136,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="20%" align="center" valign="top">
 
-<h3 style="color:#FF69B4;">◆ DX TECHIES</h3>
+<h3><font color="#FF69B4">◆ DX TECHIES</font></h3>
 
 <b>AI Crowd Monitoring</b><br>
 SIH Ideas • <b>SIH26187</b>
@@ -157,7 +157,7 @@ SIH Ideas • <b>SIH26187</b>
 
 <td width="20%" align="center" valign="top">
 
-<h3 style="color:#FF69B4;">◆ CODE.KAISEN</h3>
+<h3><font color="#FF69B4">◆ CODE.KAISEN</font></h3>
 
 <b>Anomaly Detection</b><br>
 SIH Ideas • <b>SIH26170</b>
@@ -178,7 +178,7 @@ SIH Ideas • <b>SIH26170</b>
 
 <td width="20%" align="center" valign="top">
 
-<h3 style="color:#FF69B4;">◆ ALGOMINDS</h3>
+<h3><font color="#FF69B4">◆ ALGOMINDS</font></h3>
 
 <b>Patient Case Taking</b><br>
 SIH 2026 • <b>SIH26047</b>
@@ -199,7 +199,7 @@ SIH 2026 • <b>SIH26047</b>
 
 <td width="20%" align="center" valign="top">
 
-<h3 style="color:#FF69B4;">◆ AI ATTENDANCE</h3>
+<h3><font color="#FF69B4">◆ AI ATTENDANCE</font></h3>
 
 <b>Student Attendance</b><br>
 Face Recognition • Camera
@@ -219,7 +219,7 @@ Face Recognition • Camera
 
 <td width="20%" align="center" valign="top">
 
-<h3 style="color:#FF69B4;">◆ PR-COPILOT</h3>
+<h3><font color="#FF69B4">◆ PR-COPILOT</font></h3>
 
 <b>AI PR Review Agent</b><br>
 GitHub • RAG • Automation
@@ -245,7 +245,7 @@ GitHub • RAG • Automation
 
 <hr>
 
-<h2 style="color:#FF69B4;">➤ Connect With Me</h2>
+<h2><font color="#FF69B4">➤ Connect With Me</font></h2>
 
 <div align="center">
 
@@ -265,7 +265,7 @@ GitHub • RAG • Automation
 
 <hr>
 
-<h2 style="color:#FF69B4;">❝ Random Developer Quote</h2>
+<h2><font color="#FF69B4">❝ Random Developer Quote</font></h2>
 
 <div align="center">
 
