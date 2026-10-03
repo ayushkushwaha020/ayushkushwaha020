@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/github/followers/ayushkushwaha020?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=EF93C4&labelColor=181818" alt="Followers">
 <img src="https://img.shields.io/github/stars/ayushkushwaha020?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=F8BBD0&labelColor=181818" alt="Total stars">
-<img src="https://komarev.com/ghpvc/?username=ayushkushwaha020&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile views">
+<img src="https://img.shields.io/badge/Profile%20Views-Analytics-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=181818" alt="Profile views">
 
 </div>
 
@@ -51,7 +51,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="36%" align="center" valign="middle">
 
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/Neon%20Sakura%20GitHub%20Profile%20Asset%20Sheet.png&crop=0,0,585,625&flop&output=jpg&q=90&maxage=1y" width="270" alt="Anime developer">
+<img src="https://github.com/ayushkushwaha020.png?size=400" width="270" alt="Ayush Kushwaha GitHub profile picture">
 
 <br><br>
 
@@ -120,7 +120,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 ### 📚 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkushwa020&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0&langs_count=8" width="100%" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkushwaha020&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0&langs_count=8" width="100%" alt="Top languages">
 
 </td>
 </tr>
@@ -153,7 +153,7 @@ SIH Ideas • <b>SIH26187</b>
 
 <br><br>
 
-<a href="https://ayushkushwa020.github.io/DX_TECHIES/">
+<a href="https://ayushkushwaha020.github.io/DX_TECHIES/">
 <img src="https://img.shields.io/badge/🔗%20LIVE-EF93C4?style=for-the-badge&labelColor=181818" alt="DX TECHIES live">
 </a>
 
