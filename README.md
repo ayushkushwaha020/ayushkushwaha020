@@ -45,7 +45,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <br>
 
-> **"Build something useful. Learn something new. Repeat."** 💗
+> **"Build something useful. Learn something new. Repeat."** ♥
 
 </td>
 
