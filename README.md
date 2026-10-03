@@ -1,4 +1,4 @@
-<!-- PASTEL PINK • NEON SAKURA GITHUB PROFILE -->
+<!-- NEON SAKURA • PASTEL PINK GITHUB PROFILE -->
 
 <div align="center">
 
@@ -8,25 +8,25 @@
 
 ### B.Tech AI & ML Student • Developer • Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=EF93C4&center=true&vCenter=true&width=620&lines=Building+%26+Shipping+Real+Projects+%F0%9F%9A%80;AI+%7C+ML+%7C+Full-Stack+Development;Turning+Ideas+into+Working+Products+%E2%9C%A8;Always+Learning.+Always+Building.+%F0%9F%92%97" alt="Typing introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=EF93C4&center=true&vCenter=true&width=560&height=32&lines=Building+%26+Shipping+Real+Projects+%F0%9F%9A%80;AI+%7C+ML+%7C+Full-Stack+Development;Turning+Ideas+into+Working+Products+%E2%9C%A8" alt="Typing introduction">
+
+<img src="https://img.shields.io/badge/🚀%20Building%20%26%20Shipping%20Real%20Projects-EF93C4?style=for-the-badge&labelColor=181818" alt="Building and shipping real projects">
 
 <br>
 
-<img src="https://img.shields.io/github/followers/ayushkushwa020?label=Followers&style=for-the-badge&color=EF93C4&labelColor=181818" alt="Followers">
-&nbsp;
-<img src="https://img.shields.io/github/stars/ayushkushwa020?affiliations=OWNER&style=for-the-badge&color=F8BBD0&labelColor=181818" alt="Stars">
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=ayushkushwa020&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile views">
+<img src="https://img.shields.io/github/followers/ayushkushwaha020?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=EF93C4&labelColor=181818" alt="Followers">
+<img src="https://img.shields.io/github/stars/ayushkushwaha020?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=F8BBD0&labelColor=181818" alt="Total stars">
+<img src="https://komarev.com/ghpvc/?username=ayushkushwaha020&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile views">
 
 </div>
 
 <hr>
 
+## 💗 About Me
+
 <table width="100%">
 <tr>
 <td width="64%" valign="top">
-
-## 💗 About Me
 
 ### Hi, I'm Ayush Kushwaha! 👋
 
@@ -50,18 +50,20 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 </td>
 
 <td width="36%" align="center" valign="middle">
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fayushkushwaha020%2Fayushkushwaha020%2Fmain%2FNeon%2520Sakura%2520GitHub%2520Profile%2520Asset%2520Sheet.png&crop=0,0,585,625&flop&output=jpg&q=90" width="270" alt="Anime developer working at a laptop">
+
+<img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fayushkushwaha020%2Fayushkushwaha020%2Fmain%2FNeon%2520Sakura%2520GitHub%2520Profile%2520Asset%2520Sheet.png&crop=0,0,585,625&flop&output=jpg&q=90" width="270" alt="Anime developer">
 
 <br><br>
 
 <img src="https://img.shields.io/badge/🚀%20Always%20Building-EF93C4?style=for-the-badge&labelColor=181818" alt="Always Building">
+
 </td>
 </tr>
 </table>
 
 <hr>
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -77,11 +79,11 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 </td>
 <td align="center" width="20%">
 <b>Web & Backend</b><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&perline=3&theme=dark" alt="Web Backend">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,fastapi&perline=3&theme=dark" alt="Web and backend">
 </td>
 <td align="center" width="20%">
 <b>Databases & Cloud</b><br><br>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker&perline=2&theme=dark" alt="Databases Cloud">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,render&perline=3&theme=dark" alt="Databases and cloud">
 </td>
 <td align="center" width="20%">
 <b>Tools</b><br><br>
@@ -101,26 +103,38 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 <table width="100%">
 <tr>
 <td width="33%" align="center" valign="middle">
-<img src="https://streak-stats.demolab.com?user=ayushkushwa020&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0" width="100%" alt="GitHub Streak">
+
+### 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=ayushkushwaha020&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0" width="100%" alt="GitHub streak">
+
 </td>
 <td width="34%" align="center" valign="middle">
-<img src="https://github-readme-stats.vercel.app/api?username=ayushkushwa020&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=EF93C4" width="100%" alt="GitHub statistics">
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkushwaha020&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true" width="100%" alt="Contribution activity">
+
 </td>
 <td width="33%" align="center" valign="middle">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkushwa020&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0" width="100%" alt="Top languages">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-snake.svg" width="100%" alt="GitHub contribution snake">
+
 </td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkushwa020&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true" width="95%" alt="Contribution activity">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkushwaha020&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0&langs_count=8" width="55%" alt="Top languages">
 
 </div>
 
 <hr>
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 <div align="center">
 
@@ -128,60 +142,107 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 <tr>
 
 <td width="20%" align="center" valign="top">
-### 🌐 DX TECHIES
+
+### 👥 DX TECHIES
+
 <b>AI Crowd Monitoring</b><br>
-SIH Ideas • <b>SIH26187</b><br><br>
-<img src="https://img.shields.io/badge/SIH%20Ideas-EF93C4?style=for-the-badge" alt="SIH Ideas">
+SIH Ideas • <b>SIH26187</b>
+
 <br><br>
+
+<img src="https://img.shields.io/badge/Web%20App-EF93C4?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-F8BBD0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hackathon-FF69B4?style=for-the-badge">
+
+<br><br>
+
 <a href="https://ayushkushwa020.github.io/DX_TECHIES/">
-<img src="https://img.shields.io/badge/LIVE-EF93C4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DX TECHIES live">
+<img src="https://img.shields.io/badge/🔗%20LIVE-EF93C4?style=for-the-badge&labelColor=181818" alt="DX TECHIES live">
 </a>
+
 </td>
 
 <td width="20%" align="center" valign="top">
+
 ### 📊 CODE.KAISEN
+
 <b>Anomaly Detection</b><br>
-SIH Ideas • <b>SIH26170</b><br><br>
-<img src="https://img.shields.io/badge/Python%20%7C%20ML-F8BBD0?style=for-the-badge" alt="Python and ML">
+SIH Ideas • <b>SIH26170</b>
+
 <br><br>
+
+<img src="https://img.shields.io/badge/Python-F8BBD0?style=for-the-badge">
+<img src="https://img.shields.io/badge/ML-EF93C4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Analysis-FF69B4?style=for-the-badge">
+
+<br><br>
+
 <a href="https://anomaly-detection-xxmd.onrender.com">
-<img src="https://img.shields.io/badge/LIVE-F8BBD0?style=for-the-badge&logo=streamlit&logoColor=white" alt="CODE.KAISEN live">
+<img src="https://img.shields.io/badge/🔗%20LIVE-F8BBD0?style=for-the-badge&labelColor=181818" alt="CODE.KAISEN live">
 </a>
+
 </td>
 
 <td width="20%" align="center" valign="top">
+
 ### 🩺 ALGOMINDS
-<b>Patient Case-Taking</b><br>
-SIH 2026 • <b>SIH26047</b><br><br>
-<img src="https://img.shields.io/badge/AI%20%7C%20Healthcare-FF69B4?style=for-the-badge" alt="AI Healthcare">
+
+<b>Patient Case Taking</b><br>
+SIH 2026 • <b>SIH26047</b>
+
 <br><br>
+
+<img src="https://img.shields.io/badge/AI-FF69B4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Healthcare-EF93C4?style=for-the-badge">
+<img src="https://img.shields.io/badge/NLP-F8BBD0?style=for-the-badge">
+
+<br><br>
+
 <a href="https://patient-case-taking-system-8zlk.onrender.com">
-<img src="https://img.shields.io/badge/LIVE-FF69B4?style=for-the-badge&logo=render&logoColor=white" alt="ALGOMINDS live">
+<img src="https://img.shields.io/badge/🔗%20LIVE-FF69B4?style=for-the-badge&labelColor=181818" alt="ALGOMINDS live">
 </a>
+
 </td>
 
 <td width="20%" align="center" valign="top">
+
 ### 📷 AI ATTENDANCE
+
 <b>Student Attendance</b><br>
-Recognition • Camera<br>
-PDF • Reporting<br><br>
-<img src="https://img.shields.io/badge/Computer%20Vision-EF93C4?style=for-the-badge" alt="Computer Vision">
+Face Recognition • Camera
+
 <br><br>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-EF93C4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Web%20App-F8BBD0?style=for-the-badge">
+
+<br><br>
+
 <a href="https://student-attendance-system-pbl.onrender.com">
-<img src="https://img.shields.io/badge/LIVE-EF93C4?style=for-the-badge&logo=render&logoColor=white" alt="AI Attendance live">
+<img src="https://img.shields.io/badge/🔗%20LIVE-EF93C4?style=for-the-badge&labelColor=181818" alt="AI Attendance live">
 </a>
+
 </td>
 
 <td width="20%" align="center" valign="top">
+
 ### 🤖 PR-COPILOT
-<b>AI PR Review</b><br>
-GitHub • RAG<br>
-Automation • Agents<br><br>
-<img src="https://img.shields.io/badge/AI%20%7C%20GitHub-FF69B4?style=for-the-badge" alt="AI GitHub">
+
+<b>AI PR Review Agent</b><br>
+GitHub • RAG • Automation
+
 <br><br>
+
+<img src="https://img.shields.io/badge/AI-FF69B4?style=for-the-badge">
+<img src="https://img.shields.io/badge/GitHub-EF93C4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Automation-F8BBD0?style=for-the-badge">
+
+<br><br>
+
 <a href="https://ayu-pr-pbl.onrender.com/ui/">
-<img src="https://img.shields.io/badge/LIVE-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="PR CoPilot live">
+<img src="https://img.shields.io/badge/🔗%20LIVE-FF69B4?style=for-the-badge&labelColor=181818" alt="PR CoPilot live">
 </a>
+
 </td>
 
 </tr>
@@ -214,8 +275,6 @@ Automation • Agents<br><br>
 ## 💭 Random Developer Quote
 
 <div align="center">
-
-<br><br>
 
 <blockquote>
 <b>"The best way to predict the future is to invent it."</b><br>
