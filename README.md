@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=180&section=header&text=Hey%20there!&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=55&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=180&section=header&text=Hey%20there!&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=55&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=180&section=header&text=Hey%20there!&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=55&descSize=18" width="100%" alt="GitHub profile banner">
-</picture>
+<img src="./assets/profile-banner.jpg" width="100%" alt="GitHub profile banner">
 
 # Hey there, I'm <span style="color:#EF93C4;">Ayush Kushwaha</span> 👋
 
@@ -53,7 +49,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="35%" align="center">
 
-<img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Ayush-Kushwaha&backgroundColor=ffd5e5" width="270" alt="Anime developer avatar">
+<img src="./assets/anime-developer.jpg" width="270" alt="Anime developer avatar">
 
 <br>
 
@@ -324,10 +320,6 @@ Automation • Agents
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=150&section=footer&text=Keep%20Building%20%F0%9F%92%97&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=150&section=footer&text=Keep%20Building%20%F0%9F%92%97&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=150&section=footer&text=Keep%20Building%20%F0%9F%92%97&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" alt="Keep Building footer">
-</picture>
+<img src="./assets/profile-footer.jpg" width="100%" alt="Keep Building footer">
 
 </div>
