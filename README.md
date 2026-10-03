@@ -51,7 +51,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="36%" align="center" valign="middle">
 
-<img src="https://github.com/ayushkushwaha020.png?size=400" width="270" alt="Ayush Kushwaha GitHub profile picture">
+<img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fayushkushwaha020.png%3Fsize%3D400&flop&output=jpg&q=95" width="240" alt="Mirrored Ayush Kushwaha GitHub profile picture">
 
 <br><br>
 
@@ -102,21 +102,14 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 ### 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=ayushkushwaha020&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0" width="100%" alt="GitHub streak">
 
 </td>
-<td width="34%" align="center" valign="middle">
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkushwaha020&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true" width="100%" alt="Contribution activity">
-
-</td>
-<td width="33%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 ### 📚 Top Languages
 
@@ -126,6 +119,9 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 </tr>
 </table>
 
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkushwaha020&theme=github-compact&custom_title=Contribution%20Activity&hide_border=true&area=true&radius=10&height=300" width="100%" alt="GitHub contribution activity graph">
 
 </div>
 
