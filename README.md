@@ -24,9 +24,9 @@
 
 <h2><font color="#FF69B4">♥ About Me</font></h2>
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="64%" valign="top">
+<td width="60%" valign="top">
 
 <h3><font color="#FF69B4">Hi, I'm Ayush Kushwaha! <span style="color:#FF69B4;">✦</span></font></h3>
 
@@ -49,7 +49,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 </td>
 
-<td width="36%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fayushkushwaha020.png%3Fsize%3D400&flop&output=jpg&q=95" width="100%" alt="Mirrored Ayush Kushwaha GitHub profile picture">
 
