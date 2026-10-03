@@ -1,6 +1,6 @@
 # Ayush Kushwaha
 
-### BCA AI & ML Student • AI/ML Developer • Full-Stack & Project Builder
+### B.Tech AI & ML Student • AI/ML Developer • Full-Stack & Project Builder
 
 I build practical software projects around **AI/ML, computer vision, automation, web applications, and developer tools**.
 
