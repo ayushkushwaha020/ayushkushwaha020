@@ -22,10 +22,6 @@
 
 <hr>
 
-<div align="center">
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fayushkushwaha020%2Fayushkushwaha020%2Fmain%2FNeon%2520Sakura%2520GitHub%2520Profile%2520Asset%2520Sheet.png&cx=16&cy=627&cw=304&ch=108&output=jpg&q=90" width="100%" alt="About Me">
-</div>
-
 <table width="100%">
 <tr>
 <td width="64%" valign="top">
@@ -52,7 +48,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 </td>
 
 <td width="36%" align="center" valign="middle">
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fayushkushwaha020%2Fayushkushwaha020%2Fmain%2FNeon%2520Sakura%2520GitHub%2520Profile%2520Asset%2520Sheet.png&cx=0&cy=0&cw=585&ch=625&output=jpg&q=90" width="270" alt="Anime developer working at a laptop">
+<img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fayushkushwaha020%2Fayushkushwaha020%2Fmain%2FNeon%2520Sakura%2520GitHub%2520Profile%2520Asset%2520Sheet.png&crop=0,0,585,625&flop&output=jpg&q=90" width="270" alt="Anime developer working at a laptop">
 
 <br><br>
 
@@ -63,9 +59,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <hr>
 
-<div align="center">
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fayushkushwaha020%2Fayushkushwaha020%2Fmain%2FNeon%2520Sakura%2520GitHub%2520Profile%2520Asset%2520Sheet.png&cx=344&cy=627&cw=306&ch=108&output=jpg&q=90" width="100%" alt="Tech Stack">
-</div>
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -98,9 +92,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <hr>
 
-<div align="center">
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fayushkushwaha020%2Fayushkushwaha020%2Fmain%2FNeon%2520Sakura%2520GitHub%2520Profile%2520Asset%2520Sheet.png&cx=676&cy=627&cw=329&ch=108&output=jpg&q=90" width="100%" alt="GitHub Analytics">
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -126,9 +118,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <hr>
 
-<div align="center">
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fayushkushwaha020%2Fayushkushwaha020%2Fmain%2FNeon%2520Sakura%2520GitHub%2520Profile%2520Asset%2520Sheet.png&cx=1028&cy=627&cw=344&ch=108&output=jpg&q=90" width="100%" alt="Featured Projects">
-</div>
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -199,9 +189,7 @@ Automation • Agents<br><br>
 
 <hr>
 
-<div align="center">
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fayushkushwaha020%2Fayushkushwaha020%2Fmain%2FNeon%2520Sakura%2520GitHub%2520Profile%2520Asset%2520Sheet.png&cx=1395&cy=627&cw=315&ch=108&output=jpg&q=90" width="100%" alt="Connect With Me">
-</div>
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -221,8 +209,9 @@ Automation • Agents<br><br>
 
 <hr>
 
+## 💭 Random Developer Quote
+
 <div align="center">
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fayushkushwaha020%2Fayushkushwaha020%2Fmain%2FNeon%2520Sakura%2520GitHub%2520Profile%2520Asset%2520Sheet.png&cx=1732&cy=627&cw=302&ch=108&output=jpg&q=90" width="100%" alt="Random Developer Quote">
 
 <br><br>
 
