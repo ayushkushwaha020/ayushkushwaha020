@@ -55,7 +55,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <br><br>
 
-<img src="https://img.shields.io/badge/✦%20Always%20Building-EF93C4?style=for-the-badge&labelColor=181818" alt="Always Building">
+<img src="./assets/always-building.svg" width="300" alt="Always Building">
 
 </td>
 </tr>
