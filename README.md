@@ -4,9 +4,9 @@
 
 <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/Neon%20Sakura%20GitHub%20Profile%20Asset%20Sheet.png&cx=602&cy=0&cw=1438&ch=320&output=jpg&q=90&maxage=1y" width="100%" alt="Hey there — Welcome to my GitHub profile">
 
-<div align="center"><img src="./assets/headings/main-title.svg" width="520" alt="Hey there, I'm Ayush Kushwaha"></div>
+<div align="center"><img src="./assets/headings/main-title.svg" width="540" alt="Hey there, I'm Ayush Kushwaha"></div>
 
-<div align="center"><img src="./assets/headings/subtitle.svg" width="390" alt="B.Tech AI & ML Student • Developer • Problem Solver"></div>
+<div align="center"><img src="./assets/headings/subtitle.svg" width="475" alt="B.Tech AI & ML Student • Developer • Problem Solver"></div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=EF93C4&center=true&vCenter=true&width=560&height=32&lines=Building+%26+Shipping+Real+Projects+%F0%9F%9A%80;AI+%7C+ML+%7C+Full-Stack+Development;Turning+Ideas+into+Working+Products+%E2%9C%A8" alt="Typing introduction">
 
@@ -22,13 +22,13 @@
 
 <hr>
 
-<img src="./assets/headings/about-me.svg" width="220" alt="About Me">
+<img src="./assets/headings/about-me.svg" width="215" alt="About Me">
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td width="60%" valign="top">
 
-<img src="./assets/headings/about-hi.svg" width="330" alt="Hi, I'm Ayush Kushwaha">
+<img src="./assets/headings/about-hi.svg" width="305" alt="Hi, I'm Ayush Kushwaha">
 
 I'm a **B.Tech AI & ML student and developer** passionate about building practical and meaningful technology.
 
@@ -51,7 +51,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fayushkushwaha020.png%3Fsize%3D400&flop&output=jpg&q=95" width="100%" alt="Mirrored Ayush Kushwaha GitHub profile picture">
+<img src="./assets/profile-frame.svg" width="100%" alt="Rounded mirrored neon profile picture">
 
 <br><br>
 
@@ -63,7 +63,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <hr>
 
-<img src="./assets/headings/tech-stack.svg" width="225" alt="Tech Stack">
+<img src="./assets/headings/tech-stack.svg" width="215" alt="Tech Stack">
 
 <div align="center">
 
@@ -96,38 +96,31 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <hr>
 
-<img src="./assets/headings/github-analytics.svg" width="295" alt="GitHub Analytics">
+<img src="./assets/headings/github-analytics.svg" width="275" alt="GitHub Analytics">
 
 <div align="center">
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="6">
 <tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="./assets/headings/github-streak.svg" width="190" alt="GitHub Streak">
-
+<td width="33.3%" align="center" valign="top">
+<img src="./assets/headings/streak.svg" width="165" alt="GitHub Streak"><br>
 <img src="https://streak-stats.demolab.com?user=ayushkushwaha020&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0" width="100%" alt="GitHub streak">
-
 </td>
-<td width="50%" align="center" valign="middle">
-
-<img src="./assets/headings/top-languages.svg" width="190" alt="Top Languages">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkushwaha020&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0&langs_count=8" width="100%" alt="Top languages">
-
+<td width="33.4%" align="center" valign="top">
+<img src="./assets/headings/activity.svg" width="195" alt="Contribution Activity"><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushkushwaha020&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=EF93C4&chart_color=FF69B4&border_color=EF93C4&bg_color=00000000" width="100%" alt="Contribution activity">
+</td>
+<td width="33.3%" align="center" valign="top">
+<img src="./assets/headings/snake.svg" width="175" alt="Contribution Snake"><br>
+<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-snake.svg" width="100%" alt="Contribution Snake">
 </td>
 </tr>
 </table>
 
-<img src="./assets/headings/contribution-activity.svg" width="225" alt="Contribution Activity">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushkushwaha020&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=EF93C4&chart_color=FF69B4&border_color=EF93C4&bg_color=00000000" width="100%" alt="GitHub contribution activity graph">
-
 </div>
-
 <hr>
 
-<img src="./assets/headings/featured-projects.svg" width="315" alt="Featured Projects">
+<img src="./assets/headings/featured-projects.svg" width="305" alt="Featured Projects">
 
 <div align="center">
 
@@ -136,7 +129,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="20%" align="center" valign="top">
 
-<img src="./assets/headings/dx-techies.svg" width="165" alt="DX TECHIES">
+<div align="center"><font color="#FF69B4">◆</font> <b>DX TECHIES</b></div>
 
 <b>AI Crowd Monitoring</b><br>
 SIH Ideas • <b>SIH26187</b>
@@ -157,7 +150,7 @@ SIH Ideas • <b>SIH26187</b>
 
 <td width="20%" align="center" valign="top">
 
-<img src="./assets/headings/code-kaisen.svg" width="180" alt="CODE.KAISEN">
+<div align="center"><font color="#FF69B4">◆</font> <b>CODE.KAISEN</b></div>
 
 <b>Anomaly Detection</b><br>
 SIH Ideas • <b>SIH26170</b>
@@ -178,7 +171,7 @@ SIH Ideas • <b>SIH26170</b>
 
 <td width="20%" align="center" valign="top">
 
-<img src="./assets/headings/algominds.svg" width="165" alt="ALGOMINDS">
+<div align="center"><font color="#FF69B4">◆</font> <b>ALGOMINDS</b></div>
 
 <b>Patient Case Taking</b><br>
 SIH 2026 • <b>SIH26047</b>
@@ -199,7 +192,7 @@ SIH 2026 • <b>SIH26047</b>
 
 <td width="20%" align="center" valign="top">
 
-<img src="./assets/headings/ai-attendance.svg" width="195" alt="AI ATTENDANCE">
+<div align="center"><font color="#FF69B4">◆</font> <b>AI ATTENDANCE</b></div>
 
 <b>Student Attendance</b><br>
 Face Recognition • Camera
@@ -219,7 +212,7 @@ Face Recognition • Camera
 
 <td width="20%" align="center" valign="top">
 
-<img src="./assets/headings/pr-copilot.svg" width="175" alt="PR-COPILOT">
+<div align="center"><font color="#FF69B4">◆</font> <b>PR-COPILOT</b></div>
 
 <b>AI PR Review Agent</b><br>
 GitHub • RAG • Automation
@@ -245,7 +238,7 @@ GitHub • RAG • Automation
 
 <hr>
 
-<img src="./assets/headings/connect.svg" width="285" alt="Connect With Me">
+<img src="./assets/headings/connect.svg" width="270" alt="Connect With Me">
 
 <div align="center">
 
@@ -265,7 +258,7 @@ GitHub • RAG • Automation
 
 <hr>
 
-<img src="./assets/headings/quote.svg" width="330" alt="Random Developer Quote">
+<img src="./assets/headings/quote.svg" width="325" alt="Random Developer Quote">
 
 <div align="center">
 
