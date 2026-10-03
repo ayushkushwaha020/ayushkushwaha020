@@ -4,9 +4,9 @@
 
 <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/Neon%20Sakura%20GitHub%20Profile%20Asset%20Sheet.png&cx=602&cy=0&cw=1438&ch=320&output=jpg&q=90&maxage=1y" width="100%" alt="Hey there — Welcome to my GitHub profile">
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=40&fontSize=26&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=Hey%20there%2C%20I'm%20Ayush%20Kushwaha%20%E2%9C%A6" height="40" alt="Hey there, I'm Ayush Kushwaha ✦"></div>
+<h1 align="center"><font color="#FF69B4">Hey there, I'm Ayush Kushwaha ✦</font></h1>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=25&fontSize=15&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=B.Tech%20AI%20%26%20ML%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Problem%20Solver" height="25" alt="B.Tech AI & ML Student • Developer • Problem Solver"></div>
+<h3><font color="#FF69B4">B.Tech AI & ML Student • Developer • Problem Solver</font></h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=EF93C4&center=true&vCenter=true&width=560&height=32&lines=Building+%26+Shipping+Real+Projects+%F0%9F%9A%80;AI+%7C+ML+%7C+Full-Stack+Development;Turning+Ideas+into+Working+Products+%E2%9C%A8" alt="Typing introduction">
 
@@ -22,26 +22,26 @@
 
 <hr>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=30&fontSize=20&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=%E2%99%A5%20About%20Me" height="30" alt="♥ About Me"></div>
+<h2><font color="#FF69B4">♥ About Me</font></h2>
 
 <table width="100%">
 <tr>
 <td width="64%" valign="top">
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=25&fontSize=15&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=Hi%2C%20I'm%20Ayush%20Kushwaha!%20%E2%9C%A6" height="25" alt="Hi, I'm Ayush Kushwaha! ✦"></div>
+<h3><font color="#FF69B4">Hi, I'm Ayush Kushwaha! <span style="color:#FF69B4;">✦</span></font></h3>
 
 I'm a **B.Tech AI & ML student and developer** passionate about building practical and meaningful technology.
 
-<span>✦</span> Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning**  
-<span>✦</span> Focused on **AI/ML, Full-Stack Development & real-world applications**  
-<span>✦</span> Building with **Python, Java, C, SQL & JavaScript**  
-<span>✦</span> Working with **Flask, FastAPI, Streamlit & REST APIs**  
-<span>✦</span> Exploring **Anomaly Detection, TensorFlow, TensorFlow.js & Data Analysis**  
-<span>✦</span> Worked on **SIH, hackathons and multiple real-world projects**  
+<span style="color:#FF69B4;">✦</span> Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning**  
+<span style="color:#FF69B4;">✦</span> Focused on **AI/ML, Full-Stack Development & real-world applications**  
+<span style="color:#FF69B4;">✦</span> Building with **Python, Java, C, SQL & JavaScript**  
+<span style="color:#FF69B4;">✦</span> Working with **Flask, FastAPI, Streamlit & REST APIs**  
+<span style="color:#FF69B4;">✦</span> Exploring **Anomaly Detection, TensorFlow, TensorFlow.js & Data Analysis**  
+<span style="color:#FF69B4;">✦</span> Worked on **SIH, hackathons and multiple real-world projects**  
 ✦ Building and deploying working software instead of only ideas  
-<span>✦</span> Always exploring new technologies and improving my development skills  
-<span>✦</span> Ask me about **AI/ML, Web Development & Project Building**  
-<span>✦</span> Fun fact: **I turn ideas into working products!**
+<span style="color:#FF69B4;">✦</span> Always exploring new technologies and improving my development skills  
+<span style="color:#FF69B4;">✦</span> Ask me about **AI/ML, Web Development & Project Building**  
+<span style="color:#FF69B4;">✦</span> Fun fact: **I turn ideas into working products!**
 
 <br>
 
@@ -63,30 +63,30 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <hr>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=30&fontSize=20&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=%E2%9C%A6%20Tech%20Stack" height="30" alt="✦ Tech Stack"></div>
+<h2><font color="#FF69B4">✦ Tech Stack</font></h2>
 
 <div align="center">
 
 <table width="100%">
 <tr>
 <td align="center" width="20%">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=22&fontSize=13&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=Languages" height="22" alt="Languages"><br><br>
+<b><font color="#F8BBD0">Languages</font></b><br><br>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&perline=3&theme=dark" alt="Languages">
 </td>
 <td align="center" width="20%">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=22&fontSize=13&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=AI%20%2F%20ML" height="22" alt="AI / ML"><br><br>
+<b><font color="#F8BBD0">AI / ML</font></b><br><br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=2&theme=dark" alt="AI ML">
 </td>
 <td align="center" width="20%">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=22&fontSize=13&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=Web%20%26%20Backend" height="22" alt="Web & Backend"><br><br>
+<b><font color="#F8BBD0">Web & Backend</font></b><br><br>
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,fastapi&perline=3&theme=dark" alt="Web and backend">
 </td>
 <td align="center" width="20%">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=22&fontSize=13&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=Databases%20%26%20Cloud" height="22" alt="Databases & Cloud"><br><br>
+<b><font color="#F8BBD0">Databases & Cloud</font></b><br><br>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,render&perline=3&theme=dark" alt="Databases and cloud">
 </td>
 <td align="center" width="20%">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=22&fontSize=13&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=Tools" height="22" alt="Tools"><br><br>
+<b><font color="#F8BBD0">Tools</font></b><br><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&perline=3&theme=dark" alt="Tools">
 </td>
 </tr>
@@ -96,7 +96,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <hr>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=30&fontSize=20&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=%E2%96%A5%20GitHub%20Analytics" height="30" alt="▥ GitHub Analytics"></div>
+<h2><font color="#FF69B4">▥ GitHub Analytics</font></h2>
 
 <div align="center">
 
@@ -104,14 +104,14 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=25&fontSize=15&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=%E2%9C%A6%20GitHub%20Streak" height="25" alt="✦ GitHub Streak"></div>
+<h3><font color="#FF69B4">✦ GitHub Streak</font></h3>
 
 <img src="https://streak-stats.demolab.com?user=ayushkushwaha020&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0" width="100%" alt="GitHub streak">
 
 </td>
 <td width="50%" align="center" valign="middle">
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=25&fontSize=15&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=%E2%9C%A6%20Top%20Languages" height="25" alt="✦ Top Languages"></div>
+<h3><font color="#FF69B4">✦ Top Languages</font></h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkushwaha020&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0&langs_count=8" width="100%" alt="Top languages">
 
@@ -119,7 +119,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 </tr>
 </table>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=25&fontSize=15&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=%E2%9C%A6%20Contribution%20Activity" height="25" alt="✦ Contribution Activity"></div>
+<h3><font color="#FF69B4">✦ Contribution Activity</font></h3>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushkushwaha020&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=EF93C4&chart_color=FF69B4&border_color=EF93C4&bg_color=00000000" width="100%" alt="GitHub contribution activity graph">
 
@@ -127,7 +127,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <hr>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=30&fontSize=20&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=%E2%9C%A6%20Featured%20Projects" height="30" alt="✦ Featured Projects"></div>
+<h2><font color="#FF69B4">✦ Featured Projects</font></h2>
 
 <div align="center">
 
@@ -136,7 +136,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="20%" align="center" valign="top">
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=25&fontSize=15&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=%E2%97%86%20DX%20TECHIES" height="25" alt="◆ DX TECHIES"></div>
+<h3><font color="#FF69B4">◆ DX TECHIES</font></h3>
 
 <b>AI Crowd Monitoring</b><br>
 SIH Ideas • <b>SIH26187</b>
@@ -157,7 +157,7 @@ SIH Ideas • <b>SIH26187</b>
 
 <td width="20%" align="center" valign="top">
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=25&fontSize=15&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=%E2%97%86%20CODE.KAISEN" height="25" alt="◆ CODE.KAISEN"></div>
+<h3><font color="#FF69B4">◆ CODE.KAISEN</font></h3>
 
 <b>Anomaly Detection</b><br>
 SIH Ideas • <b>SIH26170</b>
@@ -178,7 +178,7 @@ SIH Ideas • <b>SIH26170</b>
 
 <td width="20%" align="center" valign="top">
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=25&fontSize=15&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=%E2%97%86%20ALGOMINDS" height="25" alt="◆ ALGOMINDS"></div>
+<h3><font color="#FF69B4">◆ ALGOMINDS</font></h3>
 
 <b>Patient Case Taking</b><br>
 SIH 2026 • <b>SIH26047</b>
@@ -199,7 +199,7 @@ SIH 2026 • <b>SIH26047</b>
 
 <td width="20%" align="center" valign="top">
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=25&fontSize=15&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=%E2%97%86%20AI%20ATTENDANCE" height="25" alt="◆ AI ATTENDANCE"></div>
+<h3><font color="#FF69B4">◆ AI ATTENDANCE</font></h3>
 
 <b>Student Attendance</b><br>
 Face Recognition • Camera
@@ -219,7 +219,7 @@ Face Recognition • Camera
 
 <td width="20%" align="center" valign="top">
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=25&fontSize=15&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=%E2%97%86%20PR-COPILOT" height="25" alt="◆ PR-COPILOT"></div>
+<h3><font color="#FF69B4">◆ PR-COPILOT</font></h3>
 
 <b>AI PR Review Agent</b><br>
 GitHub • RAG • Automation
@@ -245,7 +245,7 @@ GitHub • RAG • Automation
 
 <hr>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=30&fontSize=20&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=%E2%9E%A4%20Connect%20With%20Me" height="30" alt="➤ Connect With Me"></div>
+<h2><font color="#FF69B4">➤ Connect With Me</font></h2>
 
 <div align="center">
 
@@ -265,7 +265,7 @@ GitHub • RAG • Automation
 
 <hr>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=30&fontSize=20&fontColor=FF69B4&stroke=FF1493&strokeWidth=1&fontAlign=5&fontAlignY=60&text=%E2%9D%9D%20Random%20Developer%20Quote" height="30" alt="❝ Random Developer Quote"></div>
+<h2><font color="#FF69B4">❝ Random Developer Quote</font></h2>
 
 <div align="center">
 
