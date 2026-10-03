@@ -51,7 +51,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="36%" align="center" valign="middle">
 
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fayushkushwaha020.png%3Fsize%3D400&flop&output=jpg&q=95" width="380" alt="Mirrored Ayush Kushwaha GitHub profile picture">
+<img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fayushkushwaha020.png%3Fsize%3D400&flop&output=jpg&q=95" width="430" alt="Mirrored Ayush Kushwaha GitHub profile picture">
 
 <br><br>
 
