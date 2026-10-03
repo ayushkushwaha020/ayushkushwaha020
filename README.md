@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fayushkushwaha020%2Fayushkushwaha020%2Fmain%2FNeon%2520Sakura%2520GitHub%2520Profile%2520Asset%2520Sheet.png&cx=602&cy=0&cw=1438&ch=320&output=jpg&q=90" width="100%" alt="Hey there — Welcome to my GitHub profile">
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/Neon%20Sakura%20GitHub%20Profile%20Asset%20Sheet.png&cx=602&cy=0&cw=1438&ch=320&output=jpg&q=90&maxage=1y" width="100%" alt="Hey there — Welcome to my GitHub profile">
 
 # Hey there, I'm <span style="color:#EF93C4;">Ayush Kushwaha</span> 👋
 
@@ -51,7 +51,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="36%" align="center" valign="middle">
 
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fayushkushwaha020%2Fayushkushwaha020%2Fmain%2FNeon%2520Sakura%2520GitHub%2520Profile%2520Asset%2520Sheet.png&crop=0,0,585,625&flop&output=jpg&q=90" width="270" alt="Anime developer">
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/Neon%20Sakura%20GitHub%20Profile%20Asset%20Sheet.png&crop=0,0,585,625&flop&output=jpg&q=90&maxage=1y" width="270" alt="Anime developer">
 
 <br><br>
 
@@ -118,17 +118,14 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 </td>
 <td width="33%" align="center" valign="middle">
 
-### 🐍 Contribution Snake
+### 📚 Top Languages
 
-<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-snake.svg" width="100%" alt="GitHub contribution snake">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkushwa020&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0&langs_count=8" width="100%" alt="Top languages">
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkushwaha020&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0&langs_count=8" width="55%" alt="Top languages">
 
 </div>
 
@@ -286,5 +283,5 @@ GitHub • RAG • Automation
 <br>
 
 <div align="center">
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fayushkushwaha020%2Fayushkushwaha020%2Fmain%2FNeon%2520Sakura%2520GitHub%2520Profile%2520Asset%2520Sheet.png&cx=610&cy=342&cw=1425&ch=132&output=jpg&q=90" width="100%" alt="Keep Building">
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/Neon%20Sakura%20GitHub%20Profile%20Asset%20Sheet.png&cx=610&cy=342&cw=1425&ch=132&output=jpg&q=90&maxage=1y" width="100%" alt="Keep Building">
 </div>
