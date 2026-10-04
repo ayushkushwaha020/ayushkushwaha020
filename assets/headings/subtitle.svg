@@ -3,5 +3,5 @@
 <filter id="g" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="2.8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <linearGradient id="p" x1="0" x2="1"><stop stop-color="#F8BBD0"/><stop offset=".5" stop-color="#FF69B4"/><stop offset="1" stop-color="#FF1493"/></linearGradient>
 </defs>
-<text x="6" y="26" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="url(#p)" stroke="#FF1493" stroke-width=".5" paint-order="stroke" filter="url(#g)">B.Tech AI & ML Student • Developer • Problem Solver</text>
+<text x="6" y="26" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="url(#p)" stroke="#FF1493" stroke-width=".5" paint-order="stroke" filter="url(#g)">B.Tech AI &amp; ML Student • Developer • Problem Solver</text>
 </svg>
