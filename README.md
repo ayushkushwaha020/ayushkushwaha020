@@ -51,7 +51,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/Pastel%20Pink%20GitHub%20Profile%20README%20Showcase.png&cx=823&cy=293&cw=298&ch=238&output=jpg&q=95&maxage=30d" width="100%" alt="Anime developer profile artwork">
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/Pastel%20Pink%20GitHub%20Profile%20README%20Showcase.png&cx=823&cy=293&cw=298&ch=238&output=jpg&q=95&maxage=30d&v=20261004" width="100%" alt="Anime developer profile artwork">
 
 <br><br>
 
@@ -99,12 +99,12 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 <div align="center">
 
 <img src="./assets/headings/streak.svg" width="175" alt="GitHub Streak"><br>
-<img src="https://streak-stats.demolab.com?user=ayushkushwaha020&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0" width="100%" alt="GitHub streak">
+<img src="https://streak-stats.demolab.com?user=ayushkushwaha020&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0&v=20261004" width="100%" alt="GitHub streak">
 
 <br><br>
 
 <img src="./assets/headings/activity.svg" width="210" alt="Contribution Activity"><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushkushwaha020&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=EF93C4&chart_color=FF69B4&border_color=EF93C4&bg_color=00000000" width="100%" alt="Contribution activity">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushkushwaha020&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=EF93C4&chart_color=FF69B4&border_color=EF93C4&bg_color=00000000&v=20261004" width="100%" alt="Contribution activity">
 
 <br><br>
 
