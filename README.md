@@ -118,70 +118,11 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <div align="center">
 
-<table width="100%" cellpadding="0" cellspacing="8" style="border-collapse:separate;border-spacing:8px;">
-<tr>
-
-<td width="20%" align="center" valign="top" style="background:#11161F;border:1px solid #303844;border-radius:14px;padding:12px 8px;">
-<a href="https://ayushkushwaha020.github.io/DX_TECHIES/"><img src="./assets/project-icons/dx-techies.svg" width="34" alt="DX TECHIES"></a>
-<br>
-<a href="https://ayushkushwaha020.github.io/DX_TECHIES/"><b>DX TECHIES</b></a>
-<br>
-<small><b>AI Crowd Monitoring</b><br>SIH Ideas • <b>SIH26187</b></small>
-<br><br>
-<span style="background:#F3B4CE;color:#3B2030;border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;">Web App</span>
-<span style="background:#FF69B4;color:white;border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;">AI</span>
-<span style="background:#EFA2C5;color:#3B2030;border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;">Hackathon</span>
-</td>
-
-<td width="20%" align="center" valign="top" style="background:#11161F;border:1px solid #303844;border-radius:14px;padding:12px 8px;">
-<a href="https://anomaly-detection-xxmd.onrender.com"><img src="./assets/project-icons/code-kaisen.svg" width="34" alt="CODE.KAISEN"></a>
-<br>
-<a href="https://anomaly-detection-xxmd.onrender.com"><b>CODE.KAISEN</b></a>
-<br>
-<small><b>Anomaly Detection</b><br>SIH Ideas • <b>SIH26170</b></small>
-<br><br>
-<span style="background:#F3B4CE;color:#3B2030;border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;">Python</span>
-<span style="background:#FF69B4;color:white;border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;">ML</span>
-<span style="background:#EFA2C5;color:#3B2030;border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;">Data Analysis</span>
-</td>
-
-<td width="20%" align="center" valign="top" style="background:#11161F;border:1px solid #303844;border-radius:14px;padding:12px 8px;">
-<a href="https://patient-case-taking-system-8zlk.onrender.com"><img src="./assets/project-icons/algominds.svg" width="34" alt="ALGOMINDS"></a>
-<br>
-<a href="https://patient-case-taking-system-8zlk.onrender.com"><b>ALGOMINDS</b></a>
-<br>
-<small><b>Patient Case Taking</b><br>SIH 2026 • <b>SIH26047</b></small>
-<br><br>
-<span style="background:#FF69B4;color:white;border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;">AI</span>
-<span style="background:#EFA2C5;color:#3B2030;border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;">Healthcare</span>
-<span style="background:#F3B4CE;color:#3B2030;border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;">NLP</span>
-</td>
-
-<td width="20%" align="center" valign="top" style="background:#11161F;border:1px solid #303844;border-radius:14px;padding:12px 8px;">
-<a href="https://student-attendance-system-pbl.onrender.com"><img src="./assets/project-icons/attendance.svg" width="34" alt="AI Student Attendance"></a>
-<br>
-<a href="https://student-attendance-system-pbl.onrender.com"><b>AI Student Attendance</b></a>
-<br>
-<small><b>Face Recognition Attendance</b><br>Camera • Web App</small>
-<br><br>
-<span style="background:#F3B4CE;color:#3B2030;border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;">Computer Vision</span>
-<span style="background:#EFA2C5;color:#3B2030;border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;">Web App</span>
-</td>
-
-<td width="20%" align="center" valign="top" style="background:#11161F;border:1px solid #303844;border-radius:14px;padding:12px 8px;">
-<a href="https://ayu-pr-pbl.onrender.com/ui/"><img src="./assets/project-icons/pr-copilot.svg" width="34" alt="PR-CoPilot"></a>
-<br>
-<a href="https://ayu-pr-pbl.onrender.com/ui/"><b>PR-CoPilot</b></a>
-<br>
-<small><b>AI-Powered PR Review Agent</b><br>GitHub • RAG • Automation</small>
-<br><br>
-<span style="background:#FF69B4;color:white;border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;">AI</span>
-<span style="background:#EFA2C5;color:#3B2030;border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;">GitHub</span>
-<span style="background:#F3B4CE;color:#3B2030;border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;">Automation</span>
-</td>
-
-</tr>
-</table>
+<a href="https://ayushkushwaha020.github.io/DX_TECHIES/"><img src="./assets/project-cards/dx-techies.svg" width="18.7%" alt="DX TECHIES"></a>&nbsp;
+<a href="https://anomaly-detection-xxmd.onrender.com"><img src="./assets/project-cards/code-kaisen.svg" width="18.7%" alt="CODE.KAISEN"></a>&nbsp;
+<a href="https://patient-case-taking-system-8zlk.onrender.com"><img src="./assets/project-cards/algominds.svg" width="18.7%" alt="ALGOMINDS"></a>&nbsp;
+<a href="https://student-attendance-system-pbl.onrender.com"><img src="./assets/project-cards/attendance.svg" width="18.7%" alt="AI Student Attendance"></a>&nbsp;
+<a href="https://ayu-pr-pbl.onrender.com/ui/"><img src="./assets/project-cards/pr-copilot.svg" width="18.7%" alt="PR-CoPilot"></a>
 
 </div>
 
