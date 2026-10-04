@@ -1,11 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520" preserveAspectRatio="xMidYMid meet">
 <defs>
-<clipPath id="r"><rect x="9" y="9" width="502" height="502" rx="36"/></clipPath>
-<filter id="g" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="g" x="-10%" y="-10%" width="120%" height="120%">
+<feGaussianBlur stdDeviation="4" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
 </defs>
-<rect x="10" y="10" width="500" height="500" rx="38" fill="#0B0F14" stroke="#FF1493" stroke-width="5" filter="url(#g)"/>
-<g clip-path="url(#r)">
-<image href="https://avatars.githubusercontent.com/u/252551552?v=4" x="9" y="9" width="502" height="502" preserveAspectRatio="xMidYMid slice"/>
-</g>
-<rect x="11" y="11" width="498" height="498" rx="37" fill="none" stroke="#FF69B4" stroke-width="2"/>
+
+<image href="https://avatars.githubusercontent.com/u/252551552?v=4"
+       x="0" y="0" width="520" height="520"
+       preserveAspectRatio="xMidYMid slice"/>
+
+<rect x="2" y="2" width="516" height="516"
+      fill="none" stroke="#FF1493" stroke-width="4"
+      filter="url(#g)"/>
+<rect x="3" y="3" width="514" height="514"
+      fill="none" stroke="#FF69B4" stroke-width="2"/>
 </svg>
