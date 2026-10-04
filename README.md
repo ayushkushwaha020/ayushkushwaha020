@@ -51,7 +51,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="40%" align="center" valign="middle">
 
-<img src="./assets/profile-frame.svg" width="100%" alt="Anime developer profile artwork">
+<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/Screenshot%202026-10-04%20002242.png?v=20261004" width="100%" alt="Anime developer profile artwork">
 
 <br><br>
 
