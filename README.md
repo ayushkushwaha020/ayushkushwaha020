@@ -51,7 +51,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="40%" align="center" valign="middle">
 
-<img src="./assets/profile-frame.svg" width="100%" alt="Rounded mirrored neon profile picture">
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/Pastel%20Pink%20GitHub%20Profile%20README%20Showcase.png&cx=823&cy=293&cw=298&ch=238&output=jpg&q=95&maxage=30d" width="100%" alt="Anime developer profile artwork">
 
 <br><br>
 
@@ -109,7 +109,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 <br><br>
 
 <img src="./assets/headings/snake.svg" width="190" alt="Contribution Snake"><br>
-<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-snake.svg" width="100%" alt="Contribution Snake">
+<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-snake.svg?v=20261004" width="100%" alt="Contribution Snake">
 
 </div>
 <hr>
