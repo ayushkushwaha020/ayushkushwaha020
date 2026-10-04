@@ -104,7 +104,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 <br><br>
 
 <img src="./assets/headings/activity.svg" width="210" alt="Contribution Activity"><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushkushwaha020&theme=transparent&title_color=EF93C4&text_color=F8BBD0&icon_color=EF93C4&chart_color=FF69B4&border_color=EF93C4&bg_color=00000000&v=20261004" width="100%" alt="Contribution activity">
+<img src="https://ghchart.xqsit94.in/dark:ff69b4/ayushkushwaha020?v=20261004" width="100%" alt="Ayush Kushwaha GitHub contribution activity">
 
 <br><br>
 
