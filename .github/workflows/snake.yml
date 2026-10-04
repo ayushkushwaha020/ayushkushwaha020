@@ -29,7 +29,7 @@ jobs:
       - name: Generate GitHub streak stats
         uses: zients/github-readme-streak-stats@v2
         with:
-          options: user=ayushkushwaha020&theme=transparent&hide_border=true&background=transparent&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0&disable_animations=true&starting_year=2025&hide_total_contributions=true&card_width=850&card_height=220
+          options: user=ayushkushwaha020&theme=transparent&hide_border=true&background=transparent&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0&disable_animations=true&starting_year=2025&hide_total_contributions=false&card_width=850&card_height=220
           path: dist/github-streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -37,7 +37,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ayushkushwaha020
-          options: theme=github-compact&bg_color=181C24&color=FF69B4&title_color=FF69B4&line=FF69B4&point=F8BBD0&area_color=EF93C4&area=true&hide_border=true&hide_title=true&days=31&height=320&radius=8&grid=true
+          options: theme=github-compact&bg_color=181C24&color=FF69B4&title_color=FF69B4&line=FF69B4&point=F8BBD0&area_color=EF93C4&area=true&hide_border=true&hide_title=true&days=90&height=360&radius=8&grid=true
           output_path: dist/github-activity.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
