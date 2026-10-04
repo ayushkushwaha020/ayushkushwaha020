@@ -157,11 +157,15 @@ def activity_svg() -> str:
         )
 
     labels = []
-    for i in [0, 15, 30, 45, 60, 75, 89]:
-        d = recent_days[i][0]
+    seen_months = set()
+    for i, (d, _) in enumerate(recent_days):
+        month_key = (d.year, d.month)
+        if month_key in seen_months:
+            continue
+        seen_months.add(month_key)
         x = left + (plot_w * i / (len(recent_days) - 1))
         labels.append(
-            f'<text x="{x:.1f}" y="{H-25}" text-anchor="middle" font-size="12" fill="#F8BBD0">{d.strftime("%b %d")}</text>'
+            f'<text x="{x:.1f}" y="{H-25}" text-anchor="middle" font-size="12" font-weight="700" fill="#F8BBD0">{d.strftime("%b")}</text>'
         )
 
     circles = "".join(
