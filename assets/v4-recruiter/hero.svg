@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ayush Kushwaha — B.TECH AI & ML">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070707"/><stop offset=".6" stop-color="#101112"/><stop offset="1" stop-color="#16130b"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8A6A16"/><stop offset=".5" stop-color="#C9A227"/><stop offset="1" stop-color="#F0C75E"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="2" y="2" width="1196" height="296" rx="18" fill="url(#bg)" stroke="url(#gold)" stroke-width="2"/>
+<path d="M18 42H280M920 42H1182" stroke="#C9A227" stroke-opacity=".28"/>
+<path d="M18 258H420M780 258H1182" stroke="#C9A227" stroke-opacity=".18"/>
+<g opacity=".22" stroke="#C9A227" fill="none">
+ <path d="M610 62h30v104h26V98h24v68h26V84h28v82h20V70h24v96h28V52h22v114h32"/>
+</g>
+<g fill="#111" stroke="#262626">
+ <path d="M650 210V150h30v60h18v-88h42v88h22v-65h32v65h22v-105h38v105h20v-78h30v78h36v-120h42v120"/>
+ <path d="M0 220h120v-45h28v45h22v-70h36v70h20v-34h30v34h24v-92h40v92h24v-52h34v52h28v-80h48v80h18v-42h22v42h30"/>
+</g>
+<g opacity=".9">
+ <text x="52" y="54" font-family="monospace" font-size="13" fill="#C9A227">/ profile / ai-ml</text>
+ <text x="52" y="128" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="900" letter-spacing="2" fill="#F2F2F2">AYUSH</text>
+ <text x="52" y="182" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="900" letter-spacing="2" fill="url(#gold)" filter="url(#glow)">KUSHWAHA</text>
+ <text x="54" y="218" font-family="Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="2.5" fill="#F2F2F2">B.TECH AI &amp; ML  •  DEVELOPER  •  BUILDER</text>
+ <text x="54" y="246" font-family="monospace" font-size="14" fill="#AEB3B8">AI / ML  •  FULL-STACK  •  COMPUTER VISION  •  REST APIs</text>
+</g>
+<g transform="translate(1000 58)">
+ <circle cx="72" cy="72" r="66" fill="#0B0B0C" stroke="#C9A227" stroke-width="2" opacity=".9"/>
+ <path d="M20 72c14-21 26-35 40-27l12-19 12 19c15-8 27 6 40 27-15-10-25-9-34-4-6-5-12-7-18-7s-12 2-18 7c-9-5-19-6-34 4z" fill="#C9A227" opacity=".9"/>
+ <text x="72" y="115" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="2" fill="#E9D77A">BUILD • SHIP • IMPROVE</text>
+</g>
+<g fill="#C9A227"><circle cx="1110" cy="238" r="3"/><circle cx="1124" cy="238" r="3"/><circle cx="1138" cy="238" r="3"/></g>
+</svg>
