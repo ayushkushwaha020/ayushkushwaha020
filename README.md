@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/assets/v3-golden/b117eb61-180d-4624-90bc-27f9a3d8ff6b.png&cx=20&cy=350&cw=742&ch=49&output=jpg&q=90&maxage=7d" width="100%" alt="Featured profile design">
+  <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/assets/v3-golden/section-about-me.svg" width="100%" alt="About Me">
 </div>
 
 <table width="100%" cellpadding="12" cellspacing="0">
@@ -43,7 +43,7 @@ I’m a **B.Tech AI & ML student and developer** focused on building practical, 
 
 </td>
 <td width="28%" align="center" valign="middle">
-  <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/assets/v3-golden/b117eb61-180d-4624-90bc-27f9a3d8ff6b.png&cx=16&cy=755&cw=194&ch=249&output=jpg&q=90&maxage=7d" width="100%" alt="Cyber-gothic profile artwork">
+  <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/assets/v3-golden/b117eb61-180d-4624-90bc-27f9a3d8ff6b.png&cx=16&cy=789&cw=194&ch=208&output=jpg&q=90&maxage=7d" width="100%" alt="Cyber-gothic profile artwork">
 </td>
 </tr>
 </table>
