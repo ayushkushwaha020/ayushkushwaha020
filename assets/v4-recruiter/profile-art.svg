@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="460" viewBox="0 0 420 460" role="img" aria-label="Gotham inspired developer profile artwork">
+<defs>
+ <radialGradient id="halo" cx="50%" cy="42%" r="55%"><stop offset="0" stop-color="#C9A227" stop-opacity=".28"/><stop offset=".58" stop-color="#C9A227" stop-opacity=".08"/><stop offset="1" stop-color="#C9A227" stop-opacity="0"/></radialGradient>
+ <linearGradient id="cape" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B1D20"/><stop offset="1" stop-color="#060607"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity=".55"/></filter>
+</defs>
+<rect x="8" y="8" width="404" height="444" rx="22" fill="#090A0C" stroke="#C9A227" stroke-opacity=".55"/>
+<circle cx="210" cy="190" r="170" fill="url(#halo)"/>
+<g opacity=".26" stroke="#C9A227" fill="none">
+ <path d="M40 390L62 255h18l20-68 20 68h28l20-92 22 92h30l24-120 22 120h28l20-72 20 72h24l18-125 24 125"/>
+</g>
+<g filter="url(#shadow)">
+ <path d="M90 405c25-55 64-86 119-91 55 5 94 36 121 91H90z" fill="url(#cape)" stroke="#2A2D30"/>
+ <path d="M132 286c12-35 38-57 77-60 39 3 65 25 79 60l-14 47H146z" fill="#0B0B0C" stroke="#3A3D40"/>
+ <path d="M156 246c8-34 27-57 54-61 27 4 47 27 55 61l-12 21h-85z" fill="#0A0A0B"/>
+ <path d="M145 244l-18-23 24 8 13-28 18 23 26-10 26 10 18-23 13 28 24-8-18 23c-13 10-28 16-43 17h-44c-15-1-30-7-43-17z" fill="#0A0A0B" stroke="#45484B" stroke-width="2"/>
+ <path d="M175 267h70" stroke="#C9A227" stroke-width="3" opacity=".85"/>
+</g>
+<g fill="#C9A227"><circle cx="62" cy="62" r="3"/><circle cx="358" cy="62" r="3"/><circle cx="62" cy="398" r="3"/><circle cx="358" cy="398" r="3"/></g>
+<text x="210" y="438" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="2.5" fill="#E9D77A">GOTHAM / ENGINEERING MODE</text>
+</svg>
