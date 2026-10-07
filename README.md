@@ -77,11 +77,11 @@ I’m a **B.Tech AI & ML student and developer** focused on building practical, 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-streak.svg?v=20261007" width="100%" alt="GitHub contribution streak">
+  <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-streak.svg?v=20261007-gold-v3" width="100%" alt="GitHub contribution streak">
   <br>
-  <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-activity.svg?v=20261007" width="100%" alt="GitHub contribution activity">
+  <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-activity.svg?v=20261007-gold-v3" width="100%" alt="GitHub contribution activity">
   <br>
-  <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-snake.svg?v=20261007" width="100%" alt="GitHub contribution snake">
+  <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-snake.svg?v=20261007-gold-v3" width="100%" alt="GitHub contribution snake">
 </div>
 
 ---
