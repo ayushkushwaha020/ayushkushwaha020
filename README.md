@@ -116,9 +116,3 @@ I’m a **B.Tech AI & ML student and developer** focused on building practical, 
   <br><br>
   <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/assets/v3-golden/b117eb61-180d-4624-90bc-27f9a3d8ff6b.png&cx=780&cy=605&cw=740&ch=137&output=jpg&q=90&maxage=7d" width="100%" alt="A disciplined developer writes a brighter tomorrow">
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/assets/v3-golden/b117eb61-180d-4624-90bc-27f9a3d8ff6b.png&cx=1090&cy=875&cw=430&ch=129&output=jpg&q=90&maxage=7d" width="100%" alt="Gotham-inspired developer footer scene">
-</div>
