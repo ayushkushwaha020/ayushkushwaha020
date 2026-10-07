@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - main
+      - v3-golden
 
 permissions:
   contents: write
@@ -29,7 +30,7 @@ jobs:
         with:
           github_user_name: ayushkushwaha020
           outputs: |
-            dist/github-snake.svg?color_snake=%23FF69B4&color_dots=%23181C24,%23F8BBD0,%23EF93C4,%23FF69B4,%23FF1493
+            dist/github-snake.svg?color_snake=%23C9A227&color_dots=%23090A0C,%23A8871D,%23C9A227,%23F0C75E,%23F7E7A8
 
       - name: Publish profile analytics
         uses: crazy-max/ghaction-github-pages@v5
