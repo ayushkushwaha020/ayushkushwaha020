@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwa020/ayushkushwa020/main/assets/v3-golden/b117eb61-180d-4624-90bc-27f9a3d8ff6b.png&cx=18&cy=263&cw=1500&ch=82&output=jpg&q=90&maxage=7d" width="100%" alt="Profile sections">
+  <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/assets/v3-golden/b117eb61-180d-4624-90bc-27f9a3d8ff6b.png&cx=18&cy=263&cw=1500&ch=82&output=jpg&q=90&maxage=7d" width="100%" alt="Profile sections">
 </div>
 
 <p align="center">
@@ -57,7 +57,7 @@ I’m a **B.Tech AI & ML student and developer** focused on building practical, 
 ---
 
 <div align="center">
-  <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/assets/v3-golden/section-tech-stack.svg&output=svg" width="100%" alt="Tech Stack">
+  <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/v3-golden/assets/v3-golden/section-tech-stack.svg" width="100%" alt="Tech Stack">
 </div>
 
 <table width="100%">
@@ -81,7 +81,7 @@ I’m a **B.Tech AI & ML student and developer** focused on building practical, 
   <br>
   <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-activity.svg?v=20261007" width="100%" alt="GitHub contribution activity">
   <br>
-  <img src="https://raw.githubusercontent.com/ayushkushwa020/ayushkushwa020/output/github-snake.svg?v=20261007" width="100%" alt="GitHub contribution snake">
+  <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-snake.svg?v=20261007" width="100%" alt="GitHub contribution snake">
 </div>
 
 ---
@@ -94,7 +94,7 @@ I’m a **B.Tech AI & ML student and developer** focused on building practical, 
 <table width="100%" cellpadding="6" cellspacing="0">
 <tr>
 <td width="33.33%" align="center"><a href="https://ayushkushwaha020.github.io/DX_TECHIES/"><img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/v3-golden/assets/v3-golden/project-01-dx-techies.svg" width="100%" alt="DX TECHIES — Crowd Monitoring System"></a></td>
-<td width="33.33%" align="center"><a href="https://anomaly-detection-xxmd.onrender.com"><img src="https://raw.githubusercontent.com/ayushkushwa020/ayushkushwa020/v3-golden/assets/v3-golden/project-02-code-kaisen.svg" width="100%" alt="CODE.KAISEN — AI Anomaly Detection"></a></td>
+<td width="33.33%" align="center"><a href="https://anomaly-detection-xxmd.onrender.com"><img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/v3-golden/assets/v3-golden/project-02-code-kaisen.svg" width="100%" alt="CODE.KAISEN — AI Anomaly Detection"></a></td>
 <td width="33.33%" align="center"><a href="https://patient-case-taking-system-8zlk.onrender.com"><img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/v3-golden/assets/v3-golden/project-03-algominds.svg" width="100%" alt="ALGOMINDS — AI Patient Case-Taking System"></a></td>
 </tr>
 <tr>
