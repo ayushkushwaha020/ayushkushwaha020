@@ -100,22 +100,22 @@ def streak_svg() -> str:
 <rect width="900" height="240" rx="10" fill="transparent"/>
 <g font-family="Segoe UI, Ubuntu, Arial, sans-serif" text-anchor="middle">
   <g>
-    <text x="150" y="92" font-size="44" font-weight="800" fill="#FF69B4" filter="url(#glow)">{last_year_total}</text>
-    <text x="150" y="132" font-size="18" font-weight="700" fill="#FF69B4">Total Contributions</text>
-    <text x="150" y="158" font-size="13" fill="#F8BBD0">Last 12 Months</text>
+    <text x="150" y="92" font-size="44" font-weight="800" fill="#C9A227" filter="url(#glow)">{last_year_total}</text>
+    <text x="150" y="132" font-size="18" font-weight="700" fill="#C9A227">Total Contributions</text>
+    <text x="150" y="158" font-size="13" fill="#E9D77A">Last 12 Months</text>
   </g>
   <g>
-    <text x="450" y="92" font-size="44" font-weight="800" fill="#FF69B4" filter="url(#glow)">{current}</text>
-    <text x="450" y="132" font-size="18" font-weight="700" fill="#FF69B4">Current Streak</text>
-    <text x="450" y="158" font-size="13" fill="#F8BBD0">{esc(USERNAME)}</text>
+    <text x="450" y="92" font-size="44" font-weight="800" fill="#C9A227" filter="url(#glow)">{current}</text>
+    <text x="450" y="132" font-size="18" font-weight="700" fill="#C9A227">Current Streak</text>
+    <text x="450" y="158" font-size="13" fill="#E9D77A">{esc(USERNAME)}</text>
   </g>
   <g>
-    <text x="750" y="92" font-size="44" font-weight="800" fill="#FF69B4" filter="url(#glow)">{longest}</text>
-    <text x="750" y="132" font-size="18" font-weight="700" fill="#FF69B4">Longest Streak</text>
-    <text x="750" y="158" font-size="13" fill="#F8BBD0">Recorded streak</text>
+    <text x="750" y="92" font-size="44" font-weight="800" fill="#C9A227" filter="url(#glow)">{longest}</text>
+    <text x="750" y="132" font-size="18" font-weight="700" fill="#C9A227">Longest Streak</text>
+    <text x="750" y="158" font-size="13" fill="#E9D77A">Recorded streak</text>
   </g>
 </g>
-<g stroke="#FF69B4" stroke-opacity=".18">
+<g stroke="#C9A227" stroke-opacity=".18">
   <line x1="300" y1="45" x2="300" y2="185"/>
   <line x1="600" y1="45" x2="600" y2="185"/>
 </g>
@@ -152,8 +152,8 @@ def activity_svg() -> str:
         value = round(max_value * (1 - frac))
         grid.append(
             f'<line x1="{left}" y1="{y:.1f}" x2="{W-right}" y2="{y:.1f}" '
-            f'stroke="#FF69B4" stroke-opacity=".14"/>'
-            f'<text x="{left-12}" y="{y+5:.1f}" text-anchor="end" font-size="12" fill="#F8BBD0">{value}</text>'
+            f'stroke="#C9A227" stroke-opacity=".14"/>'
+            f'<text x="{left-12}" y="{y+5:.1f}" text-anchor="end" font-size="12" fill="#E9D77A">{value}</text>'
         )
 
     labels = []
@@ -165,11 +165,11 @@ def activity_svg() -> str:
         seen_months.add(month_key)
         x = left + (plot_w * i / (len(recent_days) - 1))
         labels.append(
-            f'<text x="{x:.1f}" y="{H-25}" text-anchor="middle" font-size="12" font-weight="700" fill="#F8BBD0">{d.strftime("%b")}</text>'
+            f'<text x="{x:.1f}" y="{H-25}" text-anchor="middle" font-size="12" font-weight="700" fill="#E9D77A">{d.strftime("%b")}</text>'
         )
 
     circles = "".join(
-        f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.2" fill="#F8BBD0"><title>{d.isoformat()}: {v} contributions</title></circle>'
+        f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.2" fill="#E9D77A"><title>{d.isoformat()}: {v} contributions</title></circle>'
         for (d, v), (x, y, _) in zip(recent_days, points)
         if v > 0
     )
@@ -177,19 +177,19 @@ def activity_svg() -> str:
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 {W} {H}" role="img" aria-label="{USERNAME} GitHub contribution activity graph">
 <defs>
   <linearGradient id="area" x1="0" x2="0" y1="0" y2="1">
-    <stop offset="0" stop-color="#EF93C4" stop-opacity=".28"/>
-    <stop offset="1" stop-color="#EF93C4" stop-opacity=".02"/>
+    <stop offset="0" stop-color="#C9A227" stop-opacity=".28"/>
+    <stop offset="1" stop-color="#C9A227" stop-opacity=".02"/>
   </linearGradient>
   <filter id="glow" x="-10%" y="-20%" width="120%" height="140%">
     <feGaussianBlur stdDeviation="3" result="blur"/>
     <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
 </defs>
-<rect width="{W}" height="{H}" rx="10" fill="#181C24"/>
+<rect width="{W}" height="{H}" rx="10" fill="#090A0C"/>
 <g font-family="Segoe UI, Ubuntu, Arial, sans-serif">
   {''.join(grid)}
   <path d="{area}" fill="url(#area)"/>
-  <path d="{line}" fill="none" stroke="#FF69B4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <path d="{line}" fill="none" stroke="#C9A227" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
   {circles}
   {''.join(labels)}
 </g>
