@@ -93,13 +93,13 @@ I’m a **B.Tech AI & ML student and developer** focused on building practical, 
 <div align="center">
 <table width="100%" cellpadding="6" cellspacing="0">
 <tr>
+<td width="33.33%" align="center"><a href="https://ayu-pr-pbl.onrender.com/ui/"><img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaHashwaha020/ayushkushwaha020/v3-golden/assets/v3-golden/project-05-pr-copilot.svg" width="100%" alt="PR-CoPilot"></a></td>
 <td width="33.33%" align="center"><a href="https://ayushkushwaha020.github.io/DX_TECHIES/"><img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/v3-golden/assets/v3-golden/project-01-dx-techies.svg" width="100%" alt="DX TECHIES — Crowd Monitoring System"></a></td>
 <td width="33.33%" align="center"><a href="https://anomaly-detection-xxmd.onrender.com"><img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/v3-golden/assets/v3-golden/project-02-code-kaisen.svg" width="100%" alt="CODE.KAISEN — AI Anomaly Detection"></a></td>
-<td width="33.33%" align="center"><a href="https://patient-case-taking-system-8zlk.onrender.com"><img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/v3-golden/assets/v3-golden/project-03-algominds.svg" width="100%" alt="ALGOMINDS — AI Patient Case-Taking System"></a></td>
 </tr>
 <tr>
+<td width="33.33%" align="center"><a href="https://patient-case-taking-system-8zlk.onrender.com"><img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/v3-golden/assets/v3-golden/project-03-algominds.svg" width="100%" alt="ALGOMINDS — AI Patient Case-Taking System"></a></td>
 <td width="33.33%" align="center"><a href="https://student-attendance-system-pbl.onrender.com"><img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/v3-golden/assets/v3-golden/project-04-attendance.svg" width="100%" alt="AI Student Attendance"></a></td>
-<td width="33.33%" align="center"><a href="https://ayu-pr-pbl.onrender.com/ui/"><img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/v3-golden/assets/v3-golden/project-05-pr-copilot.svg" width="100%" alt="PR-CoPilot"></a></td>
 <td width="33.33%" align="center"></td>
 </tr>
 </table>
