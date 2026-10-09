@@ -51,7 +51,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="40%" align="center" valign="middle">
 
-<img src="./assets/profile-mirrored.svg?v=20261009-pink-v2" width="100%" alt="Anime developer profile artwork">
+<img src="./assets/profile-mirrored.svg?v=20261004" width="100%" alt="Anime developer profile artwork">
 
 <br><br>
 
