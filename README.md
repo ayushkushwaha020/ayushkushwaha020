@@ -51,7 +51,7 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 
 <td width="40%" align="center" valign="middle">
 
-<img src="./assets/profile-mirrored.svg?v=20261004" width="100%" alt="Anime developer profile artwork">
+<img src="./assets/profile-mirrored.svg?v=20261009-pink-v2" width="100%" alt="Anime developer profile artwork">
 
 <br><br>
 
@@ -99,17 +99,17 @@ I'm a **B.Tech AI & ML student and developer** passionate about building practic
 <div align="center">
 
 <img src="./assets/headings/streak.svg" width="175" alt="GitHub Streak"><br>
-<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-streak.svg?v=20261004" width="100%" alt="GitHub streak">
+<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-streak.svg?v=20261009-pink-v2" width="100%" alt="GitHub streak">
 
 <br><br>
 
 <img src="./assets/headings/activity.svg" width="210" alt="Contribution Activity"><br>
-<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-activity.svg?v=20261004" width="100%" alt="Ayush Kushwaha GitHub contribution activity">
+<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-activity.svg?v=20261009-pink-v2" width="100%" alt="Ayush Kushwaha GitHub contribution activity">
 
 <br><br>
 
 <img src="./assets/headings/snake.svg" width="190" alt="Contribution Snake"><br>
-<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-snake.svg?v=20261004" width="100%" alt="Contribution Snake">
+<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-snake.svg?v=20261009-pink-v2" width="100%" alt="Contribution Snake">
 
 </div>
 <hr>
