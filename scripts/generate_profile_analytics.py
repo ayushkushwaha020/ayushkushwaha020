@@ -195,8 +195,8 @@ def activity_svg() -> str:
 </g>
 </svg>"""
 
-(Path("dist/github-streak.svg")).write_text(streak_svg(), encoding="utf-8")
-(Path("dist/github-activity.svg")).write_text(activity_svg(), encoding="utf-8")
+(Path("dist/github-streak-pink-v2.svg")).write_text(streak_svg(), encoding="utf-8")
+(Path("dist/github-activity-pink-v2.svg")).write_text(activity_svg(), encoding="utf-8")
 
 print(json.dumps({
     "username": USERNAME,
