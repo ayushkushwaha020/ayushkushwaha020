@@ -74,11 +74,13 @@ for d, n in contribs:
         run = 0
         prev = None
 
+# Use 26 complete weeks so the activity graphic reads as a calm heatmap rather than a spike-dominated line chart.
+grid_end = max(d for d, _ in contribs)
+grid_end -= timedelta(days=(grid_end.weekday() + 1) % 7)  # End on Sunday.
+grid_start = grid_end - timedelta(days=181)  # 26 weeks, starting Monday.
 recent_days = []
-end = max(d for d, _ in contribs)
-start = end - timedelta(days=89)
-for i in range(90):
-    d = start + timedelta(days=i)
+for i in range(182):
+    d = grid_start + timedelta(days=i)
     recent_days.append((d, counts.get(d, 0)))
 
 def esc(value: str) -> str:
@@ -122,79 +124,93 @@ def streak_svg() -> str:
 </svg>"""
 
 def activity_svg() -> str:
-    W, H = 1200, 380
-    left, right, top, bottom = 70, 30, 35, 65
-    plot_w, plot_h = W - left - right, H - top - bottom
-    max_value = max(v for _, v in recent_days)
-    if max_value == 0:
-        max_value = 1
+    W, H = 1200, 280
+    panel = "#0B1220"
+    muted = "#8FA3BD"
+    text_color = "#E2E8F0"
+    blue = "#3B82F6"
+    levels = ["#172033", "#1E3A5F", "#1D4ED8", "#3B82F6", "#7DD3FC"]
 
-    points = []
-    for i, (_, value) in enumerate(recent_days):
-        x = left + (plot_w * i / (len(recent_days) - 1))
-        y = top + plot_h * (1 - value / max_value)
-        points.append((x, y, value))
+    total = sum(value for _, value in recent_days)
+    active_days = sum(1 for _, value in recent_days if value > 0)
+    max_value = max((value for _, value in recent_days), default=0) or 1
 
-    line = " ".join(
-        ("M" if i == 0 else "L") + f" {x:.1f},{y:.1f}"
-        for i, (x, y, _) in enumerate(points)
-    )
-    area = (
-        f"M {points[0][0]:.1f},{top + plot_h:.1f} "
-        + " ".join(f"L {x:.1f},{y:.1f}" for x, y, _ in points)
-        + f" L {points[-1][0]:.1f},{top + plot_h:.1f} Z"
-    )
+    # Log scaling keeps low-volume days visible even when a single day is an outlier.
+    def level_for(value: int) -> int:
+        if value <= 0:
+            return 0
+        ratio = math.log1p(value) / math.log1p(max_value)
+        return min(4, 1 + min(3, int(ratio * 4)))
 
-    grid = []
-    for step in range(5):
-        frac = step / 4
-        y = top + plot_h * frac
-        value = round(max_value * (1 - frac))
-        grid.append(
-            f'<line x1="{left}" y1="{y:.1f}" x2="{W-right}" y2="{y:.1f}" '
-            f'stroke="#3B82F6" stroke-opacity=".14"/>'
-            f'<text x="{left-12}" y="{y+5:.1f}" text-anchor="end" font-size="12" fill="#CBD5E1">{value}</text>'
+    gx, gy, cell, gap = 285, 91, 18, 6
+    cell_step = cell + gap
+    cells = []
+    month_labels = []
+    previous_month = None
+
+    for i, (d, value) in enumerate(recent_days):
+        col = i // 7
+        row = d.weekday()  # Monday to Sunday.
+        x = gx + col * cell_step
+        y = gy + row * cell_step
+        level = level_for(value)
+        cells.append(
+            f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="4" '
+            f'fill="{levels[level]}" stroke="#93C5FD" stroke-opacity=".10">'
+            f'<title>{d.isoformat()}: {value} contributions</title></rect>'
         )
-
-    labels = []
-    seen_months = set()
-    for i, (d, _) in enumerate(recent_days):
         month_key = (d.year, d.month)
-        if month_key in seen_months:
-            continue
-        seen_months.add(month_key)
-        x = left + (plot_w * i / (len(recent_days) - 1))
-        labels.append(
-            f'<text x="{x:.1f}" y="{H-25}" text-anchor="middle" font-size="12" font-weight="700" fill="#CBD5E1">{d.strftime("%b")}</text>'
+        if month_key != previous_month:
+            month_labels.append(
+                f'<text x="{x}" y="76" font-size="11" font-weight="700" fill="{muted}">{d.strftime("%b")}</text>'
+            )
+            previous_month = month_key
+
+    weekdays = []
+    for label, row in (("M", 0), ("W", 2), ("F", 4)):
+        y = gy + row * cell_step + 13
+        weekdays.append(
+            f'<text x="265" y="{y}" text-anchor="end" font-size="10" fill="{muted}">{label}</text>'
         )
 
-    circles = "".join(
-        f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.2" fill="#CBD5E1"><title>{d.isoformat()}: {v} contributions</title></circle>'
-        for (d, v), (x, y, _) in zip(recent_days, points)
-        if v > 0
+    legend = []
+    legend_labels = ["Less", "", "", "", "More"]
+    lx, ly = 958, 142
+    for level, color in enumerate(levels):
+        x = lx + level * 30
+        legend.append(
+            f'<rect x="{x}" y="{ly}" width="20" height="20" rx="4" fill="{color}"/>'
+        )
+    legend_svg = "".join(legend)
+    legend_label = (
+        f'<text x="{lx}" y="{ly-13}" font-size="11" font-weight="700" fill="{text_color}">DAILY INTENSITY</text>'
+        f'<text x="{lx}" y="{ly+41}" font-size="10" fill="{muted}">Less</text>'
+        f'<text x="{lx+140}" y="{ly+41}" text-anchor="end" font-size="10" fill="{muted}">More</text>'
     )
 
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 {W} {H}" role="img" aria-label="{USERNAME} GitHub contribution activity graph">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 {W} {H}" role="img" aria-label="{USERNAME} contribution heatmap for six months">
 <defs>
-  <linearGradient id="area" x1="0" x2="0" y1="0" y2="1">
-    <stop offset="0" stop-color="#60A5FA" stop-opacity=".28"/>
-    <stop offset="1" stop-color="#60A5FA" stop-opacity=".02"/>
+  <linearGradient id="accent" x1="0" x2="1">
+    <stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#38BDF8"/>
   </linearGradient>
-  <filter id="glow" x="-10%" y="-20%" width="120%" height="140%">
-    <feGaussianBlur stdDeviation="3" result="blur"/>
-    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter>
 </defs>
-<rect width="{W}" height="{H}" rx="10" fill="#0B1220"/>
+<rect width="{W}" height="{H}" rx="16" fill="{panel}"/>
+<rect x="0" y="0" width="5" height="{H}" rx="2.5" fill="url(#accent)"/>
+<text x="30" y="39" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.8" fill="#93C5FD">CONTRIBUTION RHYTHM</text>
+<text x="30" y="61" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="11" fill="{muted}">26 weeks · more consistent days are easier to spot</text>
+<text x="30" y="127" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="35" font-weight="800" fill="{text_color}">{total}</text>
+<text x="30" y="147" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="{muted}">CONTRIBUTIONS</text>
+<line x1="30" y1="165" x2="228" y2="165" stroke="#2A3C56"/>
+<text x="30" y="204" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="27" font-weight="800" fill="{blue}">{active_days}</text>
+<text x="30" y="224" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="{muted}">ACTIVE DAYS</text>
 <g font-family="Segoe UI, Ubuntu, Arial, sans-serif">
-  {''.join(grid)}
-  <path d="{area}" fill="url(#area)"/>
-  <path d="{line}" fill="none" stroke="#3B82F6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
-  {circles}
-  {''.join(labels)}
+  {"".join(weekdays)}
+  {"".join(month_labels)}
+  {"".join(cells)}
+  {legend_svg}
+  {legend_label}
 </g>
 </svg>"""
-
 streak = streak_svg()
 activity = activity_svg()
 
