@@ -1,24 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
-<title id="title">Let's build something useful</title>
-<desc id="desc">A minimal navy closing banner inviting thoughtful collaboration, with a subtle blue accent and generous whitespace.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+<title id="title">Thanks for stopping by — let's build something useful</title>
+<desc id="desc">A bright ice-blue closing banner, intentionally distinct from the dark daily quote panel, with a geometric cobalt and cyan game-inspired motif.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#0B1220"/>
-    <stop offset="1" stop-color="#111C30"/>
+  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#EFF6FF"/>
+    <stop offset="1" stop-color="#D8EBFF"/>
   </linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#2563EB"/>
-    <stop offset="1" stop-color="#38BDF8"/>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#1D4ED8"/>
+    <stop offset="1" stop-color="#2563EB"/>
   </linearGradient>
 </defs>
-<rect width="1200" height="150" rx="16" fill="url(#bg)"/>
-<rect x="0" y="0" width="7" height="150" rx="3" fill="url(#accent)"/>
-<path d="M890 0V40H960V78H1030V110H1200" fill="none" stroke="#60A5FA" stroke-width="1.5" stroke-opacity=".35"/>
-<path d="M1000 0V25H1070V60H1140" fill="none" stroke="#60A5FA" stroke-width="1.5" stroke-opacity=".25"/>
-<circle cx="960" cy="78" r="4" fill="#38BDF8" opacity=".8"/>
-<circle cx="1070" cy="25" r="4" fill="#38BDF8" opacity=".8"/>
-<text x="48" y="58" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="800" letter-spacing="1.2" fill="#F8FAFC">LET'S BUILD SOMETHING USEFUL</text>
-<rect x="49" y="76" width="65" height="3" rx="1.5" fill="url(#accent)"/>
-<text x="48" y="108" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" fill="#CBD5E1">Have an idea worth testing? Let's connect and build.</text>
-<text x="1150" y="126" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2" fill="#64748B">AYUSH KUSHWAHA</text>
+<rect width="1200" height="180" rx="18" fill="url(#paper)"/>
+<rect x="0" y="0" width="8" height="180" rx="4" fill="url(#blue)"/>
+<path d="M790 0H1200V180H900L1015 112L940 65Z" fill="#BFDBFE" opacity=".9"/>
+<path d="M960 0H1200V180H1050L1144 112L1083 62Z" fill="url(#blue)"/>
+<path d="M1095 0H1200V180H1130L1183 119Z" fill="#38BDF8" opacity=".95"/>
+<g fill="none" stroke="#0F2B54" stroke-width="3" opacity=".7">
+  <path d="M910 32h48v24h24v24h24"/>
+  <path d="M925 148h32v-20h28v-20h20"/>
+  <rect x="1008" y="38" width="12" height="12" rx="2"/>
+  <rect x="966" y="126" width="12" height="12" rx="2"/>
+</g>
+<g fill="#FFFFFF" opacity=".85">
+  <rect x="1090" y="33" width="12" height="12" rx="2"/>
+  <rect x="1140" y="75" width="12" height="12" rx="2"/>
+  <rect x="1080" y="129" width="12" height="12" rx="2"/>
+</g>
+<text x="48" y="45" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="2.5" fill="#1D4ED8">THANKS FOR VISITING</text>
+<text x="46" y="91" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="29" font-weight="800" letter-spacing=".2" fill="#0B1220">LET'S BUILD SOMETHING USEFUL.</text>
+<text x="48" y="122" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Explore, experiment, and turn good ideas into real projects.</text>
+<rect x="48" y="140" width="188" height="26" rx="13" fill="#0B1220"/>
+<text x="142" y="157" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="800" letter-spacing="1.1" fill="#F8FAFC">BUILD · PLAY · IMPROVE</text>
 </svg>
