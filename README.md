@@ -13,7 +13,7 @@
   <p>
     <a href="https://github.com/ayushkushwaha020"><img src="https://img.shields.io/badge/GitHub-Projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
     <a href="https://www.linkedin.com/in/ayush-kushwaha-08aa58387/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
-    <a href="https://www.instagram.com/4f52/"><img src="https://img.shields.io/badge/Instagram-@4F52-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @4F52"></a>
+    <a href="https://www.instagram.com/ayushkushwah4852"><img src="https://img.shields.io/badge/Instagram-@4F52-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @4F52"></a>
     <a href="mailto:ayushkush880@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-475569?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact"></a>
   </p>
   <p>
@@ -155,11 +155,11 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learn
 <p align="center">Open to thoughtful feedback, project collaboration, and opportunities to build useful software.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-kushwaha-08aa58387/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-  <a href="https://www.instagram.com/4f52/"><img src="https://img.shields.io/badge/Instagram-@4F52-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram account Ayush Kushwa 4F52"></a>
+  <a href="https://www.instagram.com/ayushkushwah4852"><img src="https://img.shields.io/badge/Instagram-@4F52-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram account Ayush Kushwa 4F52"></a>
   <a href="mailto:ayushkush880@gmail.com"><img src="https://img.shields.io/badge/Email-Message%20Me-475569?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ayush"></a>
   <a href="https://github.com/ayushkushwaha020"><img src="https://img.shields.io/badge/GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
 </p>
-<p align="center"><strong>Instagram display name:</strong> Ayush Kushwa &nbsp;·&nbsp; <strong>Handle:</strong> 4F52</p>
+<p align="center"><strong>Instagram:</strong> Ayush Kushwa &nbsp;·&nbsp; <strong>Handle:</strong> @ayushkushwah4852</p>
 
 ---
 
