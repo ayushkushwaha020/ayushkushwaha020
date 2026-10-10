@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
-<title id="title">Thank you for visiting</title>
-<desc id="desc">A minimal navy closing banner with a blue accent and a keep-building message.</desc>
+<title id="title">Let's build something useful</title>
+<desc id="desc">A minimal navy closing banner inviting thoughtful collaboration, with a subtle blue accent and generous whitespace.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#0B1220"/>
@@ -17,8 +17,8 @@
 <path d="M1000 0V25H1070V60H1140" fill="none" stroke="#60A5FA" stroke-width="1.5" stroke-opacity=".25"/>
 <circle cx="960" cy="78" r="4" fill="#38BDF8" opacity=".8"/>
 <circle cx="1070" cy="25" r="4" fill="#38BDF8" opacity=".8"/>
-<text x="48" y="58" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="800" letter-spacing="1.6" fill="#F8FAFC">THANK YOU FOR VISITING</text>
+<text x="48" y="58" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="800" letter-spacing="1.2" fill="#F8FAFC">LET'S BUILD SOMETHING USEFUL</text>
 <rect x="49" y="76" width="65" height="3" rx="1.5" fill="url(#accent)"/>
-<text x="48" y="108" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" fill="#CBD5E1">Keep learning. Keep building. Keep shipping.</text>
+<text x="48" y="108" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" fill="#CBD5E1">Have an idea worth testing? Let's connect and build.</text>
 <text x="1150" y="126" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2" fill="#64748B">AYUSH KUSHWAHA</text>
 </svg>
