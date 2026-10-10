@@ -195,8 +195,24 @@ def activity_svg() -> str:
 </g>
 </svg>"""
 
-(Path("dist/github-streak-v5.svg")).write_text(streak_svg(), encoding="utf-8")
-(Path("dist/github-activity-v5.svg")).write_text(activity_svg(), encoding="utf-8")
+streak = streak_svg()
+activity = activity_svg()
+
+# Version 5 uses the professional blue palette.
+Path("dist/github-streak-v5.svg").write_text(streak, encoding="utf-8")
+Path("dist/github-activity-v5.svg").write_text(activity, encoding="utf-8")
+
+# Keep the original Version 2 pink analytics available for rollback.
+streak_pink_v2 = streak.replace("#3B82F6", "#FF69B4").replace("#CBD5E1", "#F8BBD0")
+activity_pink_v2 = (
+    activity.replace("#3B82F6", "#FF69B4")
+    .replace("#CBD5E1", "#F8BBD0")
+    .replace("#60A5FA", "#EF93C4")
+    .replace("#0B1220", "#181C24")
+    .replace("#1D4ED8", "#FF1493")
+)
+Path("dist/github-streak-pink-v2.svg").write_text(streak_pink_v2, encoding="utf-8")
+Path("dist/github-activity-pink-v2.svg").write_text(activity_pink_v2, encoding="utf-8")
 
 
 # A small daily engineering reminder. The selected quote changes once per UTC day.
