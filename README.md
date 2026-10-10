@@ -15,6 +15,8 @@
     <a href="#tech-stack">Tech stack</a>
     &nbsp;·&nbsp;
     <a href="#github-activity">GitHub activity</a>
+    &nbsp;·&nbsp;
+    <a href="#connect-with-me">Contact</a>
   </p>
 </div>
 
