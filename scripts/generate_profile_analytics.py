@@ -210,6 +210,10 @@ def activity_svg() -> str:
         f'<text x="{lx+140}" y="{ly+41}" text-anchor="end" font-size="10" fill="{muted}">More</text>'
     )
 
+    today_label = today.strftime("%d %b").upper()
+    yesterday_label = (today - timedelta(days=1)).strftime("%d %b").upper()
+    source_label = source_last_date.strftime("%d %b").upper()
+
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 {W} {H}" role="img" aria-label="{USERNAME} contribution heatmap for 26 weeks, source through {source_last_date.isoformat()}">
 <defs>
   <linearGradient id="accent" x1="0" x2="1">
@@ -223,11 +227,11 @@ def activity_svg() -> str:
 <text x="30" y="127" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="35" font-weight="800" fill="{text_color}">{total}</text>
 <text x="30" y="147" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="{muted}">CONTRIBUTIONS</text>
 <line x1="30" y1="165" x2="228" y2="165" stroke="#2A3C56"/>
-<text x="30" y="187" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing=".7" fill="{muted}">TODAY · {today.strftime("%d %b").upper()}</text>
+<text x="30" y="187" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing=".7" fill="{muted}">TODAY · {today_label}</text>
 <text x="30" y="211" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="24" font-weight="800" fill="{blue}">{today_count}</text>
-<text x="130" y="187" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing=".3" fill="{muted}">YESTERDAY · {(today - timedelta(days=1)).strftime("%d %b").upper()}</text>
+<text x="130" y="187" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing=".3" fill="{muted}">YESTERDAY · {yesterday_label}</text>
 <text x="130" y="211" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="24" font-weight="800" fill="#7DD3FC">{yesterday_count}</text>
-<text x="30" y="239" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="9" fill="{muted}">Source through {source_last_date.strftime("%d %b").upper()}</text>
+<text x="30" y="239" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="9" fill="{muted}">Source through {source_label}</text>
 <g font-family="Segoe UI, Ubuntu, Arial, sans-serif">
   {"".join(weekdays)}
   {"".join(month_labels)}
