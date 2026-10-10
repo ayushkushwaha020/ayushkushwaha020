@@ -19,6 +19,9 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v6
 
+      - name: Validate analytics generator syntax
+        run: python -m py_compile scripts/generate_profile_analytics.py
+
       - name: Generate contribution analytics from GitHub profile data
         run: |
           mkdir -p scripts dist
