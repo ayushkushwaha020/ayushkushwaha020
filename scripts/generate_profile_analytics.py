@@ -24,6 +24,7 @@ if "contributions" not in payload:
     raise RuntimeError(f"Contribution API response missing contributions: {payload}")
 
 contribs = []
+source_levels = {}
 for item in payload["contributions"]:
     try:
         d = datetime.strptime(item["date"], "%Y-%m-%d").date()
@@ -31,6 +32,14 @@ for item in payload["contributions"]:
     except (KeyError, TypeError, ValueError):
         continue
     contribs.append((d, max(0, n)))
+    # The source returns GitHub's real 0–4 activity level for each calendar day.
+    # Preserve it instead of re-binning every positive day into the same shade.
+    try:
+        source_level = int(item.get("level", -1))
+    except (TypeError, ValueError):
+        source_level = -1
+    if 0 <= source_level <= 4:
+        source_levels[d] = source_level
 
 contribs.sort(key=lambda x: x[0])
 if not contribs:
@@ -47,7 +56,7 @@ if isinstance(totals, dict):
 if last_year_total is None:
     last_year_total = sum(n for _, n in contribs)
 
-today = date.today()
+today = datetime.now(timezone.utc).date()
 
 # GitHub-style current streak: today may be zero without breaking a streak.
 cursor = today
@@ -74,14 +83,19 @@ for d, n in contribs:
         run = 0
         prev = None
 
-# Use 26 complete weeks so the activity graphic reads as a calm heatmap rather than a spike-dominated line chart.
-grid_end = max(d for d, _ in contribs)
-grid_end -= timedelta(days=(grid_end.weekday() + 1) % 7)  # End on Sunday.
-grid_start = grid_end - timedelta(days=181)  # 26 weeks, starting Monday.
+# Keep a rolling 26-week window anchored to the current calendar week, not the
+# latest date returned by the upstream scraper. This prevents October/current-week
+# activity from disappearing when a cached/source response ends a day early.
+grid_end = today + timedelta(days=(6 - today.weekday()))  # Sunday of the current week.
+grid_start = grid_end - timedelta(days=181)  # Monday, 25 weeks before grid_end.
 recent_days = []
 for i in range(182):
     d = grid_start + timedelta(days=i)
     recent_days.append((d, counts.get(d, 0)))
+source_last_date = max((d for d, _ in contribs if d <= today), default=grid_start)
+source_lag_days = max(0, (today - source_last_date).days)
+today_count = counts.get(today, 0)
+yesterday_count = counts.get(today - timedelta(days=1), 0)
 
 def esc(value: str) -> str:
     return (
@@ -133,14 +147,22 @@ def activity_svg() -> str:
 
     total = sum(value for _, value in recent_days)
     active_days = sum(1 for _, value in recent_days if value > 0)
-    max_value = max((value for _, value in recent_days), default=0) or 1
+    positive_counts = sorted(value for _, value in contribs if value > 0)
 
-    # Log scaling keeps low-volume days visible even when a single day is an outlier.
-    def level_for(value: int) -> int:
+    # Prefer the upstream GitHub 0–4 intensity class. Only fall back to a
+    # percentile rank if the source omits a day's level.
+    from bisect import bisect_right
+
+    def level_for(day: date, value: int) -> int:
+        source_level = source_levels.get(day)
+        if source_level is not None:
+            return source_level
         if value <= 0:
             return 0
-        ratio = math.log1p(value) / math.log1p(max_value)
-        return min(4, 1 + min(3, int(ratio * 4)))
+        if not positive_counts:
+            return 1
+        percentile = bisect_right(positive_counts, value) / len(positive_counts)
+        return max(1, min(4, int(math.ceil(percentile * 4))))
 
     gx, gy, cell, gap = 285, 91, 18, 6
     cell_step = cell + gap
@@ -153,7 +175,7 @@ def activity_svg() -> str:
         row = d.weekday()  # Monday to Sunday.
         x = gx + col * cell_step
         y = gy + row * cell_step
-        level = level_for(value)
+        level = level_for(d, value)
         cells.append(
             f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="4" '
             f'fill="{levels[level]}" stroke="#93C5FD" stroke-opacity=".10">'
@@ -188,7 +210,7 @@ def activity_svg() -> str:
         f'<text x="{lx+140}" y="{ly+41}" text-anchor="end" font-size="10" fill="{muted}">More</text>'
     )
 
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 {W} {H}" role="img" aria-label="{USERNAME} contribution heatmap for six months">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 {W} {H}" role="img" aria-label="{USERNAME} contribution heatmap for 26 weeks, source through {source_last_date.isoformat()}">
 <defs>
   <linearGradient id="accent" x1="0" x2="1">
     <stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#38BDF8"/>
@@ -197,12 +219,15 @@ def activity_svg() -> str:
 <rect width="{W}" height="{H}" rx="16" fill="{panel}"/>
 <rect x="0" y="0" width="5" height="{H}" rx="2.5" fill="url(#accent)"/>
 <text x="30" y="39" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.8" fill="#93C5FD">CONTRIBUTION RHYTHM</text>
-<text x="30" y="61" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="11" fill="{muted}">26 weeks · more consistent days are easier to spot</text>
+<text x="30" y="61" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="11" fill="{muted}">26 weeks · {active_days} active days</text>
 <text x="30" y="127" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="35" font-weight="800" fill="{text_color}">{total}</text>
 <text x="30" y="147" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="{muted}">CONTRIBUTIONS</text>
 <line x1="30" y1="165" x2="228" y2="165" stroke="#2A3C56"/>
-<text x="30" y="204" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="27" font-weight="800" fill="{blue}">{active_days}</text>
-<text x="30" y="224" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="{muted}">ACTIVE DAYS</text>
+<text x="30" y="187" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing=".7" fill="{muted}">TODAY · {today.strftime("%d %b").upper()}</text>
+<text x="30" y="211" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="24" font-weight="800" fill="{blue}">{today_count}</text>
+<text x="130" y="187" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing=".3" fill="{muted}">YESTERDAY · {(today - timedelta(days=1)).strftime("%d %b").upper()}</text>
+<text x="130" y="211" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="24" font-weight="800" fill="#7DD3FC">{yesterday_count}</text>
+<text x="30" y="239" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="9" fill="{muted}">Source through {source_last_date.strftime("%d %b").upper()}</text>
 <g font-family="Segoe UI, Ubuntu, Arial, sans-serif">
   {"".join(weekdays)}
   {"".join(month_labels)}
@@ -278,4 +303,9 @@ print(json.dumps({
     "longest_streak": longest,
     "activity_days": len(recent_days),
     "activity_total": sum(v for _, v in recent_days),
+    "activity_active_days": sum(1 for _, value in recent_days if value > 0),
+    "source_data_through": source_last_date.isoformat(),
+    "source_lag_days": source_lag_days,
+    "today_count": today_count,
+    "yesterday_count": yesterday_count,
 }, indent=2))
