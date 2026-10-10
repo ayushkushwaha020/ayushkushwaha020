@@ -1,173 +1,139 @@
-<!-- NEON SAKURA • PASTEL PINK GITHUB PROFILE -->
+<!-- VERSION 5 — PROFESSIONAL ENGINEERING PROFILE -->
 
 <div align="center">
-
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/Neon%20Sakura%20GitHub%20Profile%20Asset%20Sheet.png&cx=602&cy=0&cw=1438&ch=320&output=jpg&q=90&maxage=1y" width="100%" alt="Hey there — Welcome to my GitHub profile">
-
-<div align="center"><img src="./assets/headings/main-title.svg" width="540" alt="Hey there, I'm Ayush Kushwaha"></div>
-
-<div align="center"><img src="./assets/headings/subtitle.svg" width="475" alt="B.Tech AI & ML Student • Developer • Problem Solver"></div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=EF93C4&center=true&vCenter=true&width=560&height=32&lines=Building+%26+Shipping+Real+Projects+%F0%9F%9A%80;AI+%7C+ML+%7C+Full-Stack+Development;Turning+Ideas+into+Working+Products+%E2%9C%A8" alt="Typing introduction">
-
-<img src="https://img.shields.io/badge/✦%20Building%20%26%20Shipping%20Real%20Projects-EF93C4?style=for-the-badge&labelColor=181818" alt="Building and shipping real projects">
-
-<br>
-
-<img src="https://img.shields.io/github/followers/ayushkushwaha020?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=EF93C4&labelColor=181818" alt="Followers">
-<img src="https://img.shields.io/github/stars/ayushkushwaha020?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=F8BBD0&labelColor=181818" alt="Total stars">
-<img src="https://img.shields.io/badge/Profile%20Views-Analytics-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=181818" alt="Profile views">
-
+  <img src="./assets/v5/professional-banner.svg" width="100%" alt="Ayush Kushwaha — B.Tech AI and ML, Software Developer">
 </div>
 
-<hr>
+<div align="center">
+  <h2>Hey there, I'm Ayush.</h2>
+  <p><strong>B.Tech AI &amp; ML Student · Software Developer</strong></p>
+  <p>I build practical software across applied AI, full-stack development, and developer tooling.</p>
+  <a href="https://github.com/ayushkushwaha020"><img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"></a>
+  <a href="https://www.linkedin.com/in/ayush-kushwaha-08aa58387/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ayushkush880@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-475569?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
-<img src="./assets/headings/about-me.svg" width="215" alt="About Me">
+---
 
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-<td width="60%" valign="top">
+## About Me
 
-<img src="./assets/headings/about-hi.svg" width="305" alt="Hi, I'm Ayush Kushwaha">
+I’m a **B.Tech student specializing in Artificial Intelligence and Machine Learning**, focused on learning by building and shipping real projects.
 
-I'm a **B.Tech AI & ML student and developer** passionate about building practical and meaningful technology.
+- Interested in **applied AI/ML, intelligent automation, and full-stack engineering**.
+- Build APIs, web applications, and tools that address practical problems.
+- Explore the complete development process: **planning, implementation, testing, and deployment**.
+- Currently highlighting **PR-CoPilot**, an AI-assisted pull-request review project, alongside projects in anomaly detection, crowd monitoring, healthcare, and attendance systems.
+- Always improving my software design, code quality, documentation, and collaboration practices.
 
-<span style="color:#FF69B4;">✦</span> Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning**  
-<span style="color:#FF69B4;">✦</span> Focused on **AI/ML, Full-Stack Development & real-world applications**  
-<span style="color:#FF69B4;">✦</span> Building with **Python, Java, C, SQL & JavaScript**  
-<span style="color:#FF69B4;">✦</span> Working with **Flask, FastAPI, Streamlit & REST APIs**  
-<span style="color:#FF69B4;">✦</span> Exploring **Anomaly Detection, TensorFlow, TensorFlow.js & Data Analysis**  
-<span style="color:#FF69B4;">✦</span> Worked on **SIH, hackathons and multiple real-world projects**  
-✦ Building and deploying working software instead of only ideas  
-<span style="color:#FF69B4;">✦</span> Always exploring new technologies and improving my development skills  
-<span style="color:#FF69B4;">✦</span> Ask me about **AI/ML, Web Development & Project Building**  
-<span style="color:#FF69B4;">✦</span> Fun fact: **I turn ideas into working products!**
+## Tech Stack
 
-<br>
+**Languages**
+  
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&perline=6&theme=dark" alt="Python, Java, C, C++, JavaScript and TypeScript">
 
-> **"Build something useful. Learn something new. Repeat."** ♥
+**AI / Machine Learning**
 
-</td>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4&theme=dark" alt="TensorFlow, PyTorch, OpenCV and scikit-learn">
 
-<td width="40%" align="center" valign="middle">
+**Web and Backend**
 
-<img src="./assets/profile-mirrored.svg?v=20261004" width="100%" alt="Anime developer profile artwork">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flask,fastapi&perline=7&theme=dark" alt="HTML, CSS, React, Node.js, Express, Flask and FastAPI">
 
-<br><br>
+**Data, Cloud and Tools**
 
-<img src="./assets/always-building.svg" width="300" alt="Always Building">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,git,github,linux,figma&perline=8&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Docker, Git, GitHub, Linux and Figma">
 
-</td>
-</tr>
+---
+
+## GitHub Streak
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-streak-v5.svg" width="100%" alt="GitHub contribution streak statistics">
+</div>
+
+## Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-activity-v5.svg" width="100%" alt="GitHub contribution activity over time">
+</div>
+
+---
+
+## Featured Projects
+
+<table width="100%" cellpadding="12" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · PR-CoPilot</h3>
+      <p><strong>AI-assisted Pull Request Review</strong></p>
+      <p>A developer tool focused on assisting pull-request analysis and improving code-review workflows.</p>
+      <p><strong>Focus:</strong> AI workflows · GitHub · Automation</p>
+      <p><a href="https://github.com/ayushkushwaha020/PR-CoPilot-Agent">Repository</a> · <a href="https://ayu-pr-pbl.onrender.com/ui/">Live Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · DX TECHIES</h3>
+      <p><strong>AI Crowd Monitoring System</strong></p>
+      <p>A crowd-monitoring prototype exploring computer vision for surveillance and crowd awareness.</p>
+      <p><strong>Focus:</strong> TensorFlow.js · COCO-SSD · Computer Vision</p>
+      <p><a href="https://github.com/ayushkushwaha020/DX_TECHIES">Repository</a> · <a href="https://ayushkushwaha020.github.io/DX_TECHIES/">Live Demo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · CODE.KAISEN</h3>
+      <p><strong>AI Anomaly Detection</strong></p>
+      <p>A machine-learning project for identifying unusual patterns in data.</p>
+      <p><strong>Focus:</strong> Python · Machine Learning · Data Analysis</p>
+      <p><a href="https://github.com/ayushkushwaha020/ANOMALY-DETECTION">Repository</a> · <a href="https://anomaly-detection-xxmd.onrender.com">Live Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · ALGOMINDS</h3>
+      <p><strong>Patient Case-Taking System</strong></p>
+      <p>A structured patient information workflow built as an AI-focused healthcare project.</p>
+      <p><strong>Focus:</strong> Python · FastAPI · Healthcare Workflows</p>
+      <p><a href="https://github.com/ayushkushwaha020/PATIENT-CASE-TAKING-SYSTEM">Repository</a> · <a href="https://patient-case-taking-system-8zlk.onrender.com">Live Demo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 · AI Student Attendance</h3>
+      <p><strong>Face Recognition Attendance System</strong></p>
+      <p>A project exploring attendance workflows with face recognition and camera-based input.</p>
+      <p><strong>Focus:</strong> Python · OpenCV · AI/ML</p>
+      <p><a href="https://github.com/ayushkushwaha020/student-attendance-system_PBL">Repository</a> · <a href="https://student-attendance-system-pbl.onrender.com">Live Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More in Progress</h3>
+      <p>I keep refining existing projects and exploring ideas that turn into useful software.</p>
+      <p><a href="https://github.com/ayushkushwaha020?tab=repositories">Browse all repositories</a></p>
+    </td>
+  </tr>
 </table>
 
-<hr>
+---
 
-<img src="./assets/headings/tech-stack.svg" width="215" alt="Tech Stack">
+## Connect With Me
 
 <div align="center">
-
-<table width="100%">
-<tr>
-<td align="center" width="20%">
-<b>Languages</b><br><br>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&perline=3&theme=dark" alt="Languages">
-</td>
-<td align="center" width="20%">
-<b>AI / ML</b><br><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=2&theme=dark" alt="AI ML">
-</td>
-<td align="center" width="20%">
-<b>Web & Backend</b><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,fastapi&perline=3&theme=dark" alt="Web and backend">
-</td>
-<td align="center" width="20%">
-<b>Databases & Cloud</b><br><br>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,render&perline=3&theme=dark" alt="Databases and cloud">
-</td>
-<td align="center" width="20%">
-<b>Tools</b><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&perline=3&theme=dark" alt="Tools">
-</td>
-</tr>
-</table>
-
+  <a href="https://www.linkedin.com/in/ayush-kushwaha-08aa58387/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  <a href="mailto:ayushkush880@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20a%20Message-475569?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ayush"></a>
+  <a href="https://github.com/ayushkushwaha020"><img src="https://img.shields.io/badge/GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
 </div>
 
-<hr>
+---
+
+## Daily Developer Quote
 
 <div align="center">
-
-<img src="./assets/headings/streak.svg" width="175" alt="GitHub Streak"><br>
-<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-streak-pink-v2.svg" width="100%" alt="GitHub streak">
-
-<br><br>
-
-<img src="./assets/headings/activity.svg" width="210" alt="Contribution Activity"><br>
-<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-activity-pink-v2.svg" width="100%" alt="Ayush Kushwaha GitHub contribution activity">
-
-<br><br>
-
-<img src="./assets/headings/snake.svg" width="190" alt="Contribution Snake"><br>
-<img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-snake-pink-v2.svg" width="100%" alt="Contribution Snake">
-
-</div>
-<hr>
-
-<img src="./assets/headings/featured-projects.svg" width="305" alt="Featured Projects">
-
-<div align="center">
-
-<table width="100%" cellpadding="0" cellspacing="8" style="border-collapse:separate;border-spacing:8px;">
-<tr>
-<td width="33.33%" align="center"><a href="https://ayu-pr-pbl.onrender.com/ui/"><img src="./assets/project-cards/pr-copilot.svg" width="100%" alt="PR-CoPilot"></a></td>
-<td width="33.33%" align="center"><a href="https://ayushkushwaha020.github.io/DX_TECHIES/"><img src="./assets/project-cards/dx-techies.svg" width="100%" alt="DX TECHIES"></a></td>
-<td width="33.33%" align="center"><a href="https://anomaly-detection-xxmd.onrender.com"><img src="./assets/project-cards/code-kaisen.svg" width="100%" alt="CODE.KAISEN"></a></td>
-</tr>
-<tr>
-<td width="33.33%" align="center"><a href="https://patient-case-taking-system-8zlk.onrender.com"><img src="./assets/project-cards/algominds.svg" width="100%" alt="ALGOMINDS"></a></td>
-<td width="33.33%" align="center"><a href="https://student-attendance-system-pbl.onrender.com"><img src="./assets/project-cards/attendance.svg" width="100%" alt="AI Student Attendance"></a></td>
-<td width="33.33%" align="center"></td>
-</tr>
-</table>
-
+  <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/developer-quote-v5.svg" width="100%" alt="Daily developer quote, refreshed by GitHub Actions">
 </div>
 
-<hr>
+*This quote image is regenerated daily by GitHub Actions.*
 
-<img src="./assets/headings/connect.svg" width="270" alt="Connect With Me">
+## Keep Coding
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ayush-kushwaha-08aa58387/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="https://www.instagram.com/ayushkushwah4852">
-<img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-&nbsp;
-<a href="mailto:ayushkush880@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</div>
-
-<hr>
-
-<img src="./assets/headings/quote.svg" width="325" alt="Random Developer Quote">
+Stay curious. Build with intention. Learn from every iteration. Make the next version better.
 
 <div align="center">
-
-<blockquote>
-<b>"The best way to predict the future is to invent it."</b><br>
-— Alan Kay
-</blockquote>
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/main/Neon%20Sakura%20GitHub%20Profile%20Asset%20Sheet.png&cx=610&cy=342&cw=1425&ch=132&output=jpg&q=90&maxage=1y" width="100%" alt="Keep Building">
+  <img src="./assets/v5/thank-you-banner.svg" width="100%" alt="Thank you for visiting. Keep learning. Keep building. Keep shipping.">
 </div>
