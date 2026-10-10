@@ -1,4 +1,4 @@
-name: GitHub Profile Analytics
+name: Version 5 Profile Analytics and Daily Quote
 
 on:
   schedule:
@@ -23,13 +23,6 @@ jobs:
         run: |
           mkdir -p scripts dist
           python scripts/generate_profile_analytics.py
-
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ayushkushwaha020
-          outputs: |
-            dist/github-snake-pink-v2.svg?color_snake=%23FF69B4&color_dots=%23181C24,%23F8BBD0,%23EF93C4,%23FF69B4,%23FF1493
 
       - name: Publish profile analytics
         uses: crazy-max/ghaction-github-pages@v5
