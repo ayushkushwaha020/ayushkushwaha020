@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Ayush Kushwaha — B.Tech AI and ML, Software Developer</title>
+<desc id="desc">Minimal professional navy banner with blue geometric engineering lines.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0B1220"/>
+    <stop offset="1" stop-color="#111C30"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#2563EB"/>
+    <stop offset="1" stop-color="#38BDF8"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity=".075" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1200" height="280" rx="18" fill="url(#background)"/>
+<rect width="1200" height="280" rx="18" fill="url(#grid)"/>
+<rect x="0" y="0" width="8" height="280" rx="4" fill="url(#accent)"/>
+<g opacity=".35" fill="none" stroke="#60A5FA" stroke-width="1.5">
+  <path d="M780 0V55H850V100H920"/>
+  <path d="M1200 70H1110V120H1030V180H950"/>
+  <path d="M845 280V230H900V205H960"/>
+  <circle cx="850" cy="55" r="4" fill="#60A5FA"/>
+  <circle cx="920" cy="100" r="4" fill="#60A5FA"/>
+  <circle cx="1030" cy="120" r="4" fill="#60A5FA"/>
+  <circle cx="950" cy="180" r="4" fill="#60A5FA"/>
+</g>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".9">
+  <path d="M850 70h52v32h50"/>
+  <path d="M1005 205h42v-34h53"/>
+  <circle cx="902" cy="70" r="4" fill="#38BDF8"/>
+  <circle cx="1099" cy="171" r="4" fill="#38BDF8"/>
+</g>
+<text x="58" y="63" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3.5" fill="#93C5FD">AI / ML  •  SOFTWARE ENGINEERING</text>
+<text x="56" y="132" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="800" letter-spacing=".5" fill="#F8FAFC">AYUSH KUSHWAHA</text>
+<rect x="58" y="153" width="82" height="4" rx="2" fill="url(#accent)"/>
+<text x="58" y="190" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600" fill="#E2E8F0">B.Tech AI &amp; ML Student  |  Software Developer</text>
+<text x="58" y="224" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#94A3B8">Applied AI • Full-Stack Development • Developer Tools</text>
+</svg>
