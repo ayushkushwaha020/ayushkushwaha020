@@ -4,7 +4,7 @@
   <img src="./assets/v5/professional-banner.svg" width="100%" alt="Ayush Kushwaha — AI/ML student, software developer and video game developer">
 </div>
 
-## Basic Introduction
+<h2 id="basic-introduction"><img src="./assets/v5/headers/introduction.svg" width="100%" alt="Basic Introduction — who I am and what I build"></h2>
 
 <div align="center">
   <h1>Ayush Kushwaha</h1>
@@ -22,18 +22,32 @@
   </p>
 </div>
 
-## About Me
+<h2 id="about-me"><img src="./assets/v5/headers/about.svg" width="100%" alt="About Me — curiosity, engineering, iteration"></h2>
 
-I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learning** who learns by building and improving real projects.
+<div align="center">
+  <img src="./assets/v5/about-panel.svg" width="100%" alt="My builder mindset: understand the problem, build a prototype, refine through feedback; interests in applied AI/ML, software engineering, developer tools, and game development">
+</div>
 
-- **I explore:** applied AI/ML, computer vision, developer tools, and interactive software.
-- **I build:** prototypes, APIs, web applications, and automation workflows.
-- **My approach:** understand the problem, ship a useful first version, then refine it with feedback.
-- **Recognition:** BAD: Build After Dark Hackathon — Runner-up; ICAIDISS 2026 — Poster Presentation Award.
+<p>I’m Ayush, a B.Tech AI &amp; ML student with a builder’s mindset. I enjoy taking a practical problem, mapping the workflow, and turning it into software people can explore and improve.</p>
+
+<table width="100%" cellpadding="12" cellspacing="8" border="0">
+  <tr>
+    <td width="50%" bgcolor="#0B1728" valign="top">
+      <p><strong>⌁ &nbsp; WHAT I EXPLORE</strong></p>
+      <p>Applied AI/ML, computer vision, intelligent automation, and interactive/game-development ideas.</p>
+    </td>
+    <td width="50%" bgcolor="#12304B" valign="top">
+      <p><strong>⌘ &nbsp; HOW I WORK</strong></p>
+      <p>Understand the problem → build a useful version → test it → refine with feedback.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>Building in public, learning through iteration, and making the next version more useful.</sub></p>
 
 ---
 
-## Featured Projects
+<h2 id="featured-projects"><img src="./assets/v5/headers/projects.svg" width="100%" alt="Featured Projects — selected work"></h2>
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
@@ -92,7 +106,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learn
 
 <p align="center"><sub>Project visuals are custom illustrations for this README, not screenshots of live application screens.</sub></p>
 
-## Other Projects
+<h2 id="other-projects"><img src="./assets/v5/headers/other-projects.svg" width="100%" alt="Other Projects — more work"></h2>
 
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
   <tr>
@@ -112,7 +126,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learn
 
 ---
 
-## Tech Stack
+<h2 id="tech-stack"><img src="./assets/v5/headers/tech-stack.svg" width="100%" alt="Tech Stack — languages, AI/ML, web, data"></h2>
 
 <table width="100%" cellpadding="12" cellspacing="8" border="0">
   <tr>
@@ -139,7 +153,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learn
 
 ---
 
-## GitHub Activity & Contribution Rhythm
+<h2 id="github-activity"><img src="./assets/v5/headers/activity.svg" width="100%" alt="GitHub Activity and Contribution Rhythm"></h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/github-streak-v5.svg" width="100%" alt="GitHub contribution totals and streaks">
@@ -150,7 +164,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learn
 
 ---
 
-## Contact Me
+<h2 id="contact-me"><img src="./assets/v5/headers/contact.svg" width="100%" alt="Contact Me — ideas and collaboration"></h2>
 
 <p align="center">Open to thoughtful feedback, project collaboration, and opportunities to build useful software.</p>
 <p align="center">
@@ -163,7 +177,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learn
 
 ---
 
-## Daily Developer Quotes
+<h2 id="daily-developer-quotes"><img src="./assets/v5/headers/quotes.svg" width="100%" alt="Daily Developer Quotes — a daily signal"></h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/developer-quote-v5.svg" width="100%" alt="Daily rotating engineering quote">
