@@ -122,13 +122,13 @@ I’m a **B.Tech student specializing in Artificial Intelligence and Machine Lea
 
 ---
 
-## Daily Developer Quote
+## Random Developer Quote — Updated Daily
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ayushkushwaha020/ayushkushwaha020/output/developer-quote-v5.svg" width="100%" alt="Daily developer quote, refreshed by GitHub Actions">
 </div>
 
-*This quote image is regenerated daily by GitHub Actions.*
+*GitHub Actions selects a different engineering quote each day and refreshes this image automatically.*
 
 ## Keep Coding
 
