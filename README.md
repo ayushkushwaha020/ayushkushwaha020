@@ -75,7 +75,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learn
   <tr>
     <td width="50%" bgcolor="#0B1728" valign="top">
       <a href="https://patient-case-taking-system-8zlk.onrender.com"><img src="./assets/v5/projects/patient-case-taking.svg" width="100%" alt="Illustrative ALGOMINDS structured patient case-taking workflow"></a>
-      <h3>04 · ALGOMINDS</h3>
+      <h3>04 · Patient Test-Taking System (ALGOMINDS)</h3>
       <p><strong>Patient Case-Taking System</strong></p>
       <p>A structured workflow for collecting and organizing patient case information.</p>
       <p><sub>Python · FastAPI · Healthcare Workflow</sub></p>
