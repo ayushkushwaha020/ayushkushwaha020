@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">How Ayush builds</title>
+<desc id="desc">A custom navy and blue visual explaining Ayush's build mindset: understand the problem, build a prototype, refine through feedback. Areas of interest include applied AI and machine learning, software engineering, and interactive experiences.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08111F"/><stop offset="1" stop-color="#12243D"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<rect x="0" y="0" width="7" height="300" rx="3" fill="url(#accent)"/>
+<g stroke="#6EA7F9" stroke-opacity=".09"><path d="M0 50H1200M0 100H1200M0 150H1200M0 200H1200M0 250H1200"/><path d="M50 0V300M100 0V300M150 0V300M200 0V300M250 0V300M300 0V300M350 0V300M400 0V300M450 0V300M500 0V300M550 0V300M600 0V300M650 0V300M700 0V300M750 0V300M800 0V300M850 0V300M900 0V300M950 0V300M1000 0V300M1050 0V300M1100 0V300M1150 0V300"/></g>
+<text x="34" y="38" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="2.5" fill="#93C5FD">MY BUILDER MINDSET</text>
+<text x="32" y="75" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="800" fill="#F8FAFC">Curious by nature. Practical by design.</text>
+<text x="34" y="100" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#A9BCD4">I like turning a real problem into a clear workflow, a working prototype, and a better next version.</text>
+<g>
+ <rect x="32" y="125" width="355" height="95" rx="12" fill="#0E1C30" stroke="#2A4466"/>
+ <rect x="32" y="125" width="5" height="95" rx="2" fill="#2563EB"/>
+ <circle cx="67" cy="158" r="17" fill="#1D4ED8" fill-opacity=".22" stroke="#60A5FA"/>
+ <text x="67" y="163" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800" fill="#BFDBFE">01</text>
+ <text x="94" y="157" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" fill="#F8FAFC">UNDERSTAND</text>
+ <text x="58" y="190" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" fill="#A9BCD4">Find the real problem and define the flow.</text>
+ <text x="58" y="207" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" fill="#60A5FA">CLARITY BEFORE CODE</text>
+ <rect x="422" y="125" width="355" height="95" rx="12" fill="#0E1C30" stroke="#2A4466"/>
+ <rect x="422" y="125" width="5" height="95" rx="2" fill="#0EA5E9"/>
+ <circle cx="457" cy="158" r="17" fill="#0EA5E9" fill-opacity=".2" stroke="#38BDF8"/>
+ <text x="457" y="163" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800" fill="#BAE6FD">02</text>
+ <text x="484" y="157" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" fill="#F8FAFC">BUILD</text>
+ <text x="448" y="190" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" fill="#A9BCD4">Prototype, connect the pieces, and test.</text>
+ <text x="448" y="207" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" fill="#38BDF8">MAKE IT USABLE</text>
+ <rect x="812" y="125" width="356" height="95" rx="12" fill="#0E1C30" stroke="#2A4466"/>
+ <rect x="812" y="125" width="5" height="95" rx="2" fill="#38BDF8"/>
+ <circle cx="847" cy="158" r="17" fill="#38BDF8" fill-opacity=".18" stroke="#7DD3FC"/>
+ <text x="847" y="163" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800" fill="#E0F2FE">03</text>
+ <text x="874" y="157" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" fill="#F8FAFC">REFINE</text>
+ <text x="838" y="190" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" fill="#A9BCD4">Improve with feedback and careful iteration.</text>
+ <text x="838" y="207" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" fill="#7DD3FC">BETTER EVERY VERSION</text>
+</g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">
+ <rect x="32" y="242" width="218" height="31" rx="15" fill="#12315B" stroke="#2563EB" stroke-opacity=".7"/><text x="141" y="262" text-anchor="middle" fill="#DBEAFE">APPLIED AI / ML</text>
+ <rect x="264" y="242" width="228" height="31" rx="15" fill="#12384A" stroke="#0EA5E9" stroke-opacity=".7"/><text x="378" y="262" text-anchor="middle" fill="#CFFAFE">SOFTWARE ENGINEERING</text>
+ <rect x="506" y="242" width="240" height="31" rx="15" fill="#17314F" stroke="#60A5FA" stroke-opacity=".7"/><text x="626" y="262" text-anchor="middle" fill="#DBEAFE">DEVELOPER TOOLING</text>
+ <rect x="760" y="242" width="245" height="31" rx="15" fill="#163047" stroke="#38BDF8" stroke-opacity=".7"/><text x="882" y="262" text-anchor="middle" fill="#BAE6FD">INTERACTIVE / GAME DEV</text>
+</g>
+<text x="1165" y="287" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#64748B">LEARN · BUILD · IMPROVE</text>
+</svg>
