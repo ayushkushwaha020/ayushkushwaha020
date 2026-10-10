@@ -14,7 +14,9 @@ req = urllib.request.Request(
     API_URL,
     headers={
         "User-Agent": "ayushkushwaha020-github-profile-analytics",
+        "Accept": "application/json",
         "Cache-Control": "no-cache",
+        "Pragma": "no-cache",
     },
 )
 with urllib.request.urlopen(req, timeout=30) as response:
@@ -46,6 +48,9 @@ if not contribs:
     raise RuntimeError("No contribution data returned")
 
 counts = {d: n for d, n in contribs}
+today = datetime.now(timezone.utc).date()
+source_last_date = max((d for d, _ in contribs if d <= today), default=today - timedelta(days=1))
+source_lag_days = max(0, (today - source_last_date).days)
 last_year_total = None
 totals = payload.get("total", {})
 if isinstance(totals, dict):
@@ -56,11 +61,10 @@ if isinstance(totals, dict):
 if last_year_total is None:
     last_year_total = sum(n for _, n in contribs)
 
-today = datetime.now(timezone.utc).date()
-
-# GitHub-style current streak: today may be zero without breaking a streak.
-cursor = today
-if counts.get(today, 0) == 0:
+# Calculate the streak against the latest date actually returned by the source.
+# Apply GitHub's today-grace rule only when source data reaches today.
+cursor = source_last_date
+if source_last_date == today and counts.get(today, 0) == 0:
     cursor = today - timedelta(days=1)
 
 current = 0
@@ -92,8 +96,6 @@ recent_days = []
 for i in range(182):
     d = grid_start + timedelta(days=i)
     recent_days.append((d, counts.get(d, 0)))
-source_last_date = max((d for d, _ in contribs if d <= today), default=grid_start)
-source_lag_days = max(0, (today - source_last_date).days)
 today_count = counts.get(today, 0)
 yesterday_count = counts.get(today - timedelta(days=1), 0)
 
