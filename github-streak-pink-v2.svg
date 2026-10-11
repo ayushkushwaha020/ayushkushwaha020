@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 900 240" role="img" aria-label="ayushkushwaha020 GitHub contribution streak statistics">
+<defs>
+  <filter id="glow" x="-20%" y="-30%" width="140%" height="160%">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="900" height="240" rx="10" fill="transparent"/>
+<g font-family="Segoe UI, Ubuntu, Arial, sans-serif" text-anchor="middle">
+  <g>
+    <text x="150" y="92" font-size="44" font-weight="800" fill="#FF69B4" filter="url(#glow)">418</text>
+    <text x="150" y="132" font-size="18" font-weight="700" fill="#FF69B4">Total Contributions</text>
+    <text x="150" y="158" font-size="13" fill="#F8BBD0">Last 12 Months</text>
+  </g>
+  <g>
+    <text x="450" y="92" font-size="44" font-weight="800" fill="#FF69B4" filter="url(#glow)">5</text>
+    <text x="450" y="132" font-size="18" font-weight="700" fill="#FF69B4">Current Streak</text>
+    <text x="450" y="158" font-size="13" fill="#F8BBD0">ayushkushwaha020</text>
+  </g>
+  <g>
+    <text x="750" y="92" font-size="44" font-weight="800" fill="#FF69B4" filter="url(#glow)">5</text>
+    <text x="750" y="132" font-size="18" font-weight="700" fill="#FF69B4">Longest Streak</text>
+    <text x="750" y="158" font-size="13" fill="#F8BBD0">Recorded streak</text>
+  </g>
+</g>
+<g stroke="#FF69B4" stroke-opacity=".18">
+  <line x1="300" y1="45" x2="300" y2="185"/>
+  <line x1="600" y1="45" x2="600" y2="185"/>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1200 190" role="img" aria-label="Daily developer quote for 11 OCT 2026">
+<defs>
+  <linearGradient id="accent" x1="0" x2="1">
+    <stop offset="0" stop-color="#2563EB"/>
+    <stop offset="1" stop-color="#38BDF8"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="190" rx="12" fill="#0B1220"/>
+<rect x="30" y="26" width="5" height="138" rx="2.5" fill="url(#accent)"/>
+<text x="58" y="58" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#93C5FD">DAILY DEVELOPER QUOTE</text>
+<text x="58" y="105" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="25" font-weight="600" fill="#F8FAFC">Strong software is built through steady iteration.</text>
+<text x="58" y="144" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="13" letter-spacing="1.2" fill="#94A3B8">11 OCT 2026  ·  A DAILY ENGINEERING REMINDER</text>
+<path d="M1050 0V44H1100V82H1200" fill="none" stroke="#60A5FA" stroke-width="1.5" stroke-opacity=".35"/>
+<circle cx="1100" cy="44" r="4" fill="#38BDF8" opacity=".8"/>
+</svg>
